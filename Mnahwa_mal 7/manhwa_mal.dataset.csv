@@ -1,0 +1,899 @@
+sno,type,title,chapters,status,genres,popularity,score,authors,publish_time
+0,manhwa,Solo Leveling,201,Finished,"Action,Adventure,Fantasy",7,8.68,"Chugong (Story), Jang, Sung-rak (Art), Disciples (Art)","Mar  4, 2018 to May  31, 2023"
+1,manhwa,The Horizon,21,Finished,"Adventure,Drama",187,8.67,"Jeong, Ji-Hoon (Story & Art)","Mar  30, 2016 to Jul  21, 2016"
+2,manhwa,Wind Breaker,NULL,Publishing,"Action,Drama,Sports",368,8.58,"Jo, Yongseok (Story & Art)","Dec  15, 2013 to "
+3,manhwa,Bastard,94,Finished,"Drama,Horror,Mystery,Romance",84,8.5,"Kim, Carnby (Story), Hwang, Young-chan (Art)","Jul  4, 2014 to May  6, 2016"
+4,manhwa,Who Made Me a Princess,125,Finished,"Comedy,Fantasy,Romance",349,8.44,"Plutus (Story), Spoon (Art)","Dec  20, 2017 to Apr  30, 2022"
+5,manhwa,The Boxer,123,Finished,"Drama,Sports",550,8.42,"Jeong, Ji-Hoon (Story & Art)","Dec  4, 2019 to May  4, 2022"
+6,manhwa,The Breaker,72,Finished,"Action,Comedy,Drama",76,8.4,"Park, Jin-Hwan (Art), Jeon, Geuk-jin (Story)","Jun  1, 2007 to Jul  20, 2010"
+7,manhwa,Eleceed,NULL,Publishing,Action,1104,8.4,"Kim, Hye-Jin (Art), Son, Jae-Ho (Story)","Oct  2, 2018 to "
+8,manhwa,Tower of God,NULL,Publishing,"Action,Adventure,Drama,Fantasy,Mystery",42,8.39,SIU (Story & Art),"Jul  5, 2010 to "
+9,manhwa,Omniscient Reader,NULL,Publishing,"Action,Adventure,Fantasy",152,8.39,"sing N song (Story), Sleepy-C (Art)","May  26, 2020 to "
+10,manhwa,The Legend of the Northern Blade,NULL,Publishing,"Action,Adventure,Fantasy",648,8.39,"Woogack (Story), Hae, Min (Art)","Dec  31, 2019 to "
+11,manhwa,The Breaker: New Waves,203,Finished,"Action,Comedy,Drama,Romance",143,8.37,"Park, Jin-Hwan (Art), Jeon, Geuk-jin (Story)","Oct  8, 2010 to May  8, 2015"
+12,manhwa,Seasons of Blossom,130,Finished,Romance,3060,8.34,"Hongduck (Story), NEMONE (Art)","Jun  24, 2020 to Mar  24, 2023"
+13,manhwa,After School Lessons for Unripe Apples,NULL,Publishing,Romance,7070,8.29,Soonkki (Story & Art),"Dec  23, 2020 to "
+14,manhwa,Annarasumanara,27,Finished,"Drama,Mystery,Romance",220,8.28,"Ha, Il-Kwon (Story & Art)","Jul  2, 2010 to Dec  31, 2010"
+15,manhwa,Sweet Home,141,Finished,"Action,Drama,Horror,Suspense",209,8.26,"Kim, Carnby (Story), Hwang, Young-chan (Art)","Oct  12, 2017 to Jul  2, 2020"
+16,manhwa,Villains Are Destined to Die,NULL,Publishing,"Drama,Fantasy,Romance",714,8.24,"Gwon, Gyeoeul (Story), SUOL (Art)","May  1, 2020 to "
+17,manhwa,Daytime Star,77,Finished,Romance,4839,8.23,"Chae-eun (Story), Godago (Art)","Jun  25, 2021 to Jan  9, 2023"
+18,manhwa,Spirit Fingers,163,Finished,"Comedy,Romance,Life",2890,8.22,"Han, Kyoung-chal (Story & Art)","May  16, 2015 to Jul  21, 2018"
+19,manhwa,The Greatest Estate Developer,NULL,Publishing,"Adventure,Fantasy",2094,8.2,"Moon, Back-kyung (Story), Kim, Hyunsoo (Art)","Jul  30, 2021 to "
+20,manhwa,Your Throne,NULL,Publishing,"Drama,Fantasy,Romance",848,8.19,SAM (Story & Art),"Jan  6, 2020 to "
+21,manhwa,Return of the Blossoming Blade,NULL,Publishing,"Action,Adventure,Fantasy",1640,8.18,"LICO (Art), Biga (Story)","Mar  23, 2021 to "
+22,manhwa,I Shall Master This Family,NULL,Publishing,Fantasy,2314,8.15,"Kim, Roah (Story), Mon (Art)","Feb  28, 2021 to "
+23,manhwa,Something About Us,101,Finished,Romance,611,8.14,"Lee, Yunji (Story & Art)","Oct  1, 2014 to Oct  19, 2016"
+24,manhwa,King's Maker,38,Finished,"Love,Drama,Fantasy",1724,8.14,"Haga (Story & Art), Kang, Ji-young (Story & Art)","Apr  25, 2017 to Nov  14, 2017"
+25,manhwa,Can't See Can't Hear But Love,83,Finished,"Drama,Romance",891,8.13,"Go, Yeong-Hun (Story & Art)","Oct  18, 2010 to Aug  22, 2011"
+26,manhwa,Cheese in the Trap Season 4,29,Finished,"Comedy,Mystery,Romance,Life",2318,8.12,Soonkki (Story & Art),"Sep  2, 2015 to Mar  29, 2017"
+27,manhwa,Why Raeliana Ended Up at the Duke's Mansion,158,Finished,"Fantasy,Romance",599,8.12,"Milcha (Story), Gorae (Art)","Sep  3, 2017 to Mar  22, 2021"
+28,manhwa,Cheese in the Trap Season 3,37,Finished,"Comedy,Mystery,Romance,Life",2065,8.12,Soonkki (Story & Art),"Jan  9, 2013 to Aug  26, 2015"
+29,manhwa,Noblesse,544,Finished,"Action,Adventure,Comedy,Supernatural",120,8.11,"Son, Jae-Ho (Story), Lee, Gwang-Su (Art)","Dec  30, 2007 to Jan  7, 2019"
+30,manhwa,See You in My 19th Life,114,Finished,Romance,3061,8.11,"Lee, Hye (Story & Art)","Jun  5, 2020 to Sep  24, 2022"
+31,manhwa,Her Tale of Shim Chong,77,Finished,"Drama,Love",2873,8.1,"seri (Story), Biwan (Art)","Sep  12, 2017 to Mar  19, 2019"
+32,manhwa,Vagrant Soldier Ares,207,Finished,"Action,Adventure,Drama",1133,8.09,"Ryu, Geum Chel (Story & Art)",2001 to  2007
+33,manhwa,Your Letter,11,Finished,"Adventure,Drama,Mystery",1718,8.08,"Cho, Hyun-ah (Story & Art)","Aug  11, 2018 to Oct  13, 2018"
+34,manhwa,A Stepmother's Märchen,NULL,Publishing,"Drama,Fantasy,Romance",1633,8.08,"Nyangi-wa Hyangsinnyo (Story), ORKA (Art)","Jul  4, 2019 to "
+35,manhwa,Cheese in the Trap Season 2,38,Finished,"Comedy,Mystery,Romance,Life",1898,8.07,Soonkki (Story & Art),"Jun  15, 2011 to Oct  17, 2012"
+36,manhwa,Let Dai,75,Finished,"Love,Drama",1991,8.06,"Won, Soo-yeon (Story & Art)",1995 to  2005
+37,manhwa,The Remarried Empress,NULL,Publishing,"Drama,Fantasy,Romance",896,8.06,"Alphatart (Story), Sumpul (Art)","Oct  24, 2019 to "
+38,manhwa,Winter Woods,55,Finished,"Fantasy,Horror,Mystery,Romance",2177,8.05,"Cosmos (Story), VAN.J (Art)","Jul  13, 2014 to Jan  29, 2017"
+39,manhwa,Heesu in Class 2,81,Finished,Love,3610,8.05,Lily (Story & Art),"Nov  15, 2017 to Jun  26, 2019"
+40,manhwa,Romance 101,152,Finished,"Comedy,Romance",4403,8.05,Namsu (Story & Art),"Mar  12, 2018 to May  25, 2021"
+41,manhwa,About Death,27,Finished,"Life,Supernatural",1380,8.04,"Sini (Story), Hyeono (Art)","Sep  5, 2012 to Feb  20, 2013"
+42,manhwa,Viral Hit,NULL,Publishing,Action,1181,8.02,"Kim, Jung-Hyun (Art), Park, Tae-Jun (Story)","Nov  15, 2019 to "
+43,manhwa,Semantic Error,NULL,Publishing,Love,4573,7.99,"J. Soori (Story), Angy (Art)","Jul  27, 2020 to "
+44,manhwa,Positively Yours,82,Finished,Romance,3931,7.98,"Lee, Jung (Story), Kangki (Art)","Jun  8, 2020 to Mar  14, 2022"
+45,manhwa,Kubera,NULL,Publishing,"Action,Adventure,Comedy,Fantasy,Romance",1342,7.98,Currygom (Story & Art),"Feb  7, 2010 to "
+46,manhwa,Lookism,NULL,Publishing,"Action,Comedy,Drama,Supernatural",311,7.97,"Park, Tae-Jun (Story & Art)","Nov  20, 2014 to "
+47,manhwa,Weak Hero,NULL,Publishing,"Action,Drama",818,7.97,"RAZEN (Art), Seopass (Story)","May  5, 2018 to "
+48,manhwa,Leviathan,111,Finished,"Action,Fantasy",3862,7.97,"Noh, Miyoung (Art), Lee, Gyuntak (Story)","Mar  12, 2018 to Apr  1, 2022"
+49,manhwa,Id,178,On Hiatus,"Action,Adventure,Fantasy",1422,7.97,"Kim, Daewoo (Story)",2002 to  2013
+50,manhwa,Nano Machine,NULL,Publishing,"Action,Adventure,Fantasy,Sci-Fi",1332,7.96,"Hanjung Wolya (Story), Geumgang Bulgoe (Art)","Jun  10, 2020 to "
+51,manhwa,Skill of Lure,36,Finished,"Comedy,Romance,Life,Ecchi",817,7.96,"Woo, Sang Ho (Story & Art)","Mar  1, 2013 to Jan  1, 2016"
+52,manhwa,Cheese in the Trap Season 1,27,Finished,"Comedy,Mystery,Romance,Life",667,7.96,Soonkki (Story & Art),"Jul  7, 2010 to May  26, 2011"
+53,manhwa,4 Cut Hero,NULL,Publishing,"Action,Adventure,Comedy,Fantasy,Romance",1837,7.95,Gojira-kun (Story & Art),"Aug  18, 2014 to "
+54,manhwa,SSS-Class Revival Hunter,NULL,Publishing,"Action,Adventure,Fantasy",941,7.95,"Bill K (Art), Sinnoa (Story)","Dec  31, 2020 to "
+55,manhwa,Fools,74,Finished,"Love,Life",3525,7.95,"Yeong-ha (Story), Bakdam (Art)","Jun  6, 2016 to Oct  5, 2017"
+56,manhwa,Witch of Mine,NULL,Finished,"Drama,Fantasy,Romance",4228,7.94,"Heyoon (Story), MAS (Art)","Aug  25, 2015 to Feb  3, 2018"
+57,manhwa,Dr. Frost,NULL,Publishing,Drama,1582,7.94,"Lee, Jong-bum (Story & Art)","Feb  2, 2011 to "
+58,manhwa,Lost in the Cloud,NULL,Publishing,Love,6201,7.94,"Kim, Pas (Story & Art)","Nov  20, 2020 to "
+59,manhwa,Operation: True Love,NULL,Publishing,"Romance,Supernatural",2747,7.93,"Kkokkalee (Story), Deuldeom (Art)","Apr  8, 2022 to "
+60,manhwa,Hellper,188,Finished,"Action,Fantasy,Supernatural",1554,7.93,Sakk (Story & Art),"Oct  12, 2011 to Jun  3, 2015"
+61,manhwa,Ruler of the Land,NULL,Publishing,"Action,Comedy,Drama,Fantasy,Romance,Ecchi",2278,7.93,"Yang, Jae Hyun (Art), Jeon, Geuk-jin (Story)",1995 to 
+62,manhwa,Unholy Blood,92,Finished,"Action,Romance,Supernatural",987,7.92,"Im, Lina (Story & Art)","Jan  15, 2020 to Sep  29, 2021"
+63,manhwa,Saver,55,Finished,"Action,Adventure,Drama,Fantasy,Romance",2756,7.92,"Lee, Eun-Young (Story & Art)",2002 to  2010
+64,manhwa,Navillera: Like a Butterfly,31,Finished,Drama,4785,7.91,"Hun (Story), Jimin (Art)","Jul  26, 2016 to Oct  31, 2017"
+65,manhwa,Teenage Mercenary,NULL,Publishing,Action,834,7.9,"YC (Story), Rakhyun (Art)","Nov  6, 2020 to "
+66,manhwa,Roxana,NULL,Publishing,"Drama,Fantasy,Romance",2725,7.9,"Kin (Story), Yeoreumbit (Art)","Jan  31, 2021 to "
+67,manhwa,Odd Girl Out,NULL,Publishing,"Comedy,Life",3761,7.9,Morangji (Story & Art),"May  17, 2015 to "
+68,manhwa,A Business Proposal,124,Finished,"Comedy,Drama,Romance",2584,7.89,"Haehwa (Story), NARAK (Art)","Sep  19, 2018 to Jul  10, 2022"
+69,manhwa,How to Win My Husband Over,NULL,Publishing,"Drama,Fantasy",3432,7.88,"Nyangi-wa Hyangsinnyo (Story), Siru (Art)","Oct  21, 2021 to "
+70,manhwa,Trapped,NULL,Publishing,"Romance,Suspense",6495,7.88,Haemuri (Story & Art),"Sep  2, 2019 to "
+71,manhwa,Yumi's Cells,527,Finished,"Comedy,Drama,Romance,Life",4450,7.86,"Lee, Dong-Gun (Story & Art)","Apr  1, 2015 to Nov  13, 2020"
+72,manhwa,Maybe Meant to Be,NULL,Publishing,"Comedy,Romance",1800,7.86,"Kkultarae (Story), Damcho (Art)","Feb  10, 2022 to "
+73,manhwa,The Stories of Those Around Me,60,Finished,"Comedy,Romance,Life",3527,7.86,Omyo (Story & Art),"Apr  20, 2012 to Jun  6, 2013"
+74,manhwa,One Thousand and One Nights,54,Finished,"Love,Drama,Fantasy",4733,7.85,"Han, Seung-Hee (Art), Jeon, Jin-Seok (Story)",2004 to  2007
+75,manhwa,Trace,177,Finished,"Action,Drama,Fantasy,Romance,Sci-Fi,Supernatural",1635,7.85,"Go, Yeong-Hun (Story & Art)","Apr  3, 2007 to Feb  13, 2009"
+76,manhwa,Whale Star: The Gyeongseong Mermaid,109,Finished,"Drama,Romance",10039,7.85,"Na, Yun-hui (Story & Art)","Jun  21, 2019 to Jul  9, 2021"
+77,manhwa,Orange Marmalade,66,Finished,"Drama,Romance",389,7.84,"Kang, Seok Woo (Story & Art)","Feb  12, 2011 to Dec  29, 2013"
+78,manhwa,Duty After School,50,Finished,"Action,Drama,Sci-Fi",1870,7.84,"Ha, Il-Kwon (Story & Art)","Nov  17, 2012 to Dec  14, 2013"
+79,manhwa,Dreaming Freedom,NULL,Publishing,"Drama,Supernatural",3899,7.84,2L (Story & Art),"Dec  24, 2021 to "
+80,manhwa,The Male Lead's Little Lion Daughter,NULL,Publishing,"Drama,Fantasy",4200,7.84,"Latine (Story), Ttona (Art)","Aug  14, 2021 to "
+81,manhwa,Super Secret,144,Finished,"Comedy,Drama,Romance,Supernatural",2270,7.84,eon (Story & Art),"Mar  30, 2015 to Jan  22, 2018"
+82,manhwa,A Good Day to Be a Dog,88,Finished,"Comedy,Drama,Romance,Supernatural",1518,7.84,"Lee, Hye (Story & Art)","Aug  5, 2017 to Apr  6, 2019"
+83,manhwa,My Life as an Internet Novel,NULL,Publishing,"Comedy,Romance",2339,7.83,"Yu, Han-ryeo (Story), Ah Hyun (Art)","Apr  1, 2019 to "
+84,manhwa,Ghost Teller,NULL,Finished,"Horror,Supernatural",4499,7.83,QTT (Story & Art),"Apr  2, 2017 to Jul  19, 2020"
+85,manhwa,King's Maker: Triple Crown,NULL,Publishing,"Love,Drama,Fantasy",6646,7.83,"Haga (Story & Art), Kang, Ji-young (Story & Art)","Jun  1, 2019 to "
+86,manhwa,The Friendly Winter,65,Finished,Drama,3670,7.83,"Lee, Jun (Story & Art)","Oct  8, 2011 to Feb  23, 2013"
+87,manhwa,The Summit,NULL,Finished,Love,5116,7.81,"Lee, Young Hui (Story & Art)",2005 to  2011
+88,manhwa,Medical Return,150,Finished,Drama,5278,7.78,"Yuin (Story), Kidari Studio (Art)","Sep  7, 2019 to Jan  28, 2022"
+89,manhwa,Goong,179,Finished,"Comedy,Drama,Romance",1678,7.78,"Park, So-Hee (Story & Art)","Dec  2, 2002 to Dec  27, 2011"
+90,manhwa,Love in the Mask,134,Finished,"Action,Comedy,Romance,Life",1811,7.78,"Han, Yu-Rang (Story & Art)",NULL
+91,manhwa,Pigpen,68,Finished,"Horror,Suspense",3712,7.78,"Kim, Carnby (Story), Cheon, Beom Sick (Art)","Mar  2, 2019 to Jun  13, 2020"
+92,manhwa,The Villainess Turns the Hourglass,125,Finished,Fantasy,2642,7.78,"Ant Studio (Art), Sansobee (Story)","Mar  1, 2020 to Nov  4, 2022"
+93,manhwa,Witch Hunter,NULL,Publishing,"Action,Comedy,Fantasy,Romance,Supernatural,Ecchi",542,7.77,"Jung-man, CHO (Story & Art)",2006 to 
+94,manhwa,Yongbi Bulpae,NULL,Finished,"Action,Adventure,Comedy",3705,7.77,"Mun, Jung-Hoo (Art), Ryu, Ki Woon (Story)",1998 to  2002
+95,manhwa,Pinocchio,81,Finished,"Comedy,Romance,Supernatural",5004,7.77,Maru (Story & Art),"Apr  6, 2011 to Mar  2013"
+96,manhwa,Beware the Villainess!,128,Finished,"Comedy,Fantasy,Romance",2069,7.77,"Ppongtta Mat Screw Bar (Story), Blue Canna (Art)","Apr  13, 2020 to Oct  9, 2022"
+97,manhwa,Doom Breaker,NULL,Publishing,"Action,Fantasy",1447,7.76,Cheongdam (Story & Art),"Jun  25, 2021 to "
+98,manhwa,Mystical,93,Finished,"Drama,Romance,Supernatural",9176,7.76,VAN.J (Story & Art),"Feb  19, 2020 to Mar  24, 2022"
+99,manhwa,"Nineteen, Twenty-One",21,Finished,"Romance,Life",748,7.76,"Kim, Hye-Jin (Art), Yohan (Story)","Aug  9, 2010 to Dec  27, 2010"
+100,manhwa,My Young Cat and My Old Dog,215,Finished,"Comedy,Drama,Life",5900,7.76,Cho (Story & Art),"Apr  5, 2011 to Jan  15, 2013"
+101,manhwa,At the End of the Road,26,Finished,"Love,Drama,Suspense",1796,7.75,Haribo (Story & Art),"Sep  12, 2016 to Jan  8, 2018"
+102,manhwa,Overgeared,NULL,Publishing,"Action,Fantasy",1627,7.75,"Park, Saenal (Story), Team Argo (Art)","Apr  1, 2020 to "
+103,manhwa,The Perks of Being a Villainess,NULL,Publishing,"Fantasy,Romance",6383,7.75,"Mang, Gokim (Story), Yoteh (Art)","Nov  30, 2022 to "
+104,manhwa,Mother's Contract Marriage,NULL,Publishing,Fantasy,9672,7.75,"Choo, Hae-Yun (Art), Siya (Story)","Dec  23, 2022 to "
+105,manhwa,Savage Garden,29,Finished,Drama,3426,7.75,"Lee, Hyeon-Sook (Story & Art)",2008 to May  2011
+106,manhwa,Dokgo,NULL,Finished,"Action,Drama",3309,7.75,"Baek, Seung Hoon (Art), Meen (Story)","Dec  7, 2012 to Feb  7, 2014"
+107,manhwa,My Life as a Loser,56,Finished,"Action,Drama",9855,7.74,"Park, Tae-Jun (Story), Jeon, Seonwook (Art)","Nov  8, 2019 to Nov  8, 2020"
+108,manhwa,Lout of Count's Family,NULL,Publishing,Fantasy,1666,7.74,"Yu, Ryeo Han (Story), PAN4 (Art)","Aug  31, 2020 to "
+109,manhwa,Star x Fanboy,19,Finished,Love,8265,7.74,"Kim, Cheomji (Story & Art)","Aug  25, 2017 to Jan  4, 2020"
+110,manhwa,You're So Cool,34,Finished,"Comedy,Romance",4320,7.74,"Lee, Young Hui (Story & Art)",2002 to  2007
+111,manhwa,Running on Empty,12,Finished,Love,3844,7.74,"Kim, Jea-Eun (Story & Art)",2008
+112,manhwa,Surviving Romance,101,Finished,"Horror,Suspense",6246,7.73,"Lee, Yeon (Story & Art)","Jan  14, 2021 to Jun  10, 2023"
+113,manhwa,The Broken Ring: This Marriage Will Fail Anyway,NULL,Publishing,"Drama,Fantasy,Romance",6590,7.73,"Kim, Chacha (Story), Cheong-gwa (Art)","Nov  2, 2022 to "
+114,manhwa,Unlucky Mansion,73,Finished,"Comedy,Romance,Life",5010,7.72,Yakguk (Story & Art),"May  19, 2016 to Jan  4, 2018"
+115,manhwa,Yureka,266,Finished,"Action,Adventure,Fantasy",2091,7.72,"Son, Hee-Joon (Story), Kim, Youn-Kyung (Art)",2000 to  2013
+116,manhwa,Unintentional Love Story,58,Finished,Love,12955,7.72,Pibi (Story & Art),"May  10, 2018 to Sep  10, 2020"
+117,manhwa,Marriage of Convenience,NULL,Publishing,"Fantasy,Romance",5511,7.72,"Ant Studio (Art), Ken (Story)","Apr  11, 2022 to "
+118,manhwa,Distant Sky,114,Finished,"Action,Drama,Horror,Mystery",2581,7.71,"Yoon, In-Wan (Story), Kim, Sun-hee (Art)","Jan  31, 2014 to Jun  24, 2018"
+119,manhwa,Unbalance x2,82,Finished,"Drama,Romance,Ecchi",557,7.7,"Im, Dal Young (Story), Lee, Soo Hyun (Art)","May  30, 2005 to Nov  28, 2011"
+120,manhwa,My Heart Is Beating,30,Finished,"Comedy,Drama,Romance,Life,Sports",2555,7.7,"Ha, Il-Kwon (Story & Art)","Jun  5, 2009 to Nov  25, 2009"
+121,manhwa,Return of the Mad Demon,NULL,Publishing,Action,2768,7.69,"Yu, Jinsung (Story), Ihy (Art)","Jul  22, 2021 to "
+122,manhwa,No Home,NULL,Publishing,Life,10884,7.69,Wanan (Story & Art),"Dec  31, 2018 to "
+123,manhwa,Death's Game,66,Finished,"Drama,Supernatural",8561,7.69,"Lee, Won-Sik (Story), Ggulchan (Art)","Apr  18, 2019 to Jun  25, 2020"
+124,manhwa,"The Children's Teacher, Mr. Kwon",83,Finished,"Drama,Life",5445,7.69,"Ho, Woo (Story & Art)","Apr  22, 2012 to Nov  23, 2013"
+125,manhwa,Hot Blooded Woman,183,Finished,"Action,Comedy,Drama",2687,7.69,"Hwang, Mi Ri (Story & Art)","Jan  31, 2002 to Sep  30, 2002"
+126,manhwa,Absolute Witch,83,Finished,"Adventure,Fantasy,Romance",5170,7.69,"Kim, Tae-Yeon (Story & Art)",2006 to  2010
+127,manhwa,Threads of Time,46,Finished,"Action,Adventure,Fantasy",3578,7.68,"Noh, Miyoung (Story & Art)","Dec  7, 1999 to Sep  4, 2003"
+128,manhwa,Crazy Girl Shin Bia-Ah,NULL,Finished,"Comedy,Drama,Romance,Supernatural",2612,7.68,"Hwang, Mi Ri (Story & Art)","Mar  7, 2008 to May  19, 2008"
+129,manhwa,Get Schooled,NULL,Publishing,Drama,2770,7.68,"Chae, Yongtaek (Story), Han, Garam (Art)","Oct  29, 2020 to "
+130,manhwa,Familyman,41,Finished,"Comedy,Drama,Romance,Life",7564,7.68,"Jung, Pil Won (Story & Art)","Aug  7, 2009 to May  28, 2010"
+131,manhwa,The God of High School,569,Finished,"Action,Adventure,Fantasy,Supernatural",207,7.68,"Park, Yong-Je (Story & Art)","Apr  8, 2011 to Oct  13, 2022"
+132,manhwa,Out of Control,95,Finished,Love,8323,7.67,Bboong (Story & Art),"Aug  31, 2013 to Sep  11, 2019"
+133,manhwa,The Tarot Café,18,Finished,"Love,Comedy,Drama,Fantasy,Horror,Mystery,Romance,Supernatural",2620,7.67,"Park, Sang-Sun (Story & Art)",2002 to 
+134,manhwa,The Bride of the Water God,176,Finished,"Drama,Fantasy,Romance",857,7.67,"Yoon, Mi-Kyung (Story & Art)","Oct  17, 2007 to  2014"
+135,manhwa,Happily Ever Afterwards,89,Finished,"Comedy,Fantasy,Romance",6399,7.67,"Jeongseo (Art), Hwang, Dotol (Story)","Dec  15, 2020 to Sep  27, 2022"
+136,manhwa,'Til Debt Do Us Part,72,Finished,Romance,6948,7.67,"Flowbee (Story), Janggreen (Art)","Sep  14, 2020 to Dec  27, 2021"
+137,manhwa,Miss Not-So Sidekick,178,Finished,"Comedy,Fantasy",6699,7.67,"Ellianyang (Story), Yumyum (Art)","Dec  24, 2017 to May  6, 2022"
+138,manhwa,The Perks of Being an S-Class Heroine,NULL,Publishing,Fantasy,7422,7.66,"Irinbi (Story), Grrr (Art)","Mar  31, 2022 to "
+139,manhwa,The Legend of Maian,75,On Hiatus,"Action,Adventure,Fantasy,Ecchi",1882,7.66,"Im, Dal Young (Story), Jeong, Soo Cheol (Art)",2007 to  2012
+140,manhwa,Doctor Elise: The Royal Lady with the Lamp,143,Finished,"Comedy,Fantasy,Romance",1457,7.66,"Yuin (Story), mini (Art)","Sep  18, 2017 to Feb  16, 2021"
+141,manhwa,Diamond Dust,40,Finished,"Drama,Romance",4247,7.65,"Kang, Hyung Kyu (Story & Art)","Apr  17, 2012 to Feb  26, 2013"
+142,manhwa,Dokgo Rewind,NULL,Finished,"Action,Drama",6696,7.65,"Baek, Seung Hoon (Art), Meen (Story)","Mar  7, 2014 to Dec  25, 2015"
+143,manhwa,"Father, I Don't Want This Marriage",NULL,Publishing,"Fantasy,Romance",3508,7.65,"Hong, Heesu (Story), Roal (Art)","Feb  24, 2021 to "
+144,manhwa,The Flowers of Evil,26,Finished,"Drama,Romance",1308,7.65,"Lee, Hyeon-Sook (Story & Art)",2006 to  2008
+145,manhwa,My In-Laws are Obsessed with Me,NULL,Publishing,"Fantasy,Romance",4822,7.64,"Han, Yoonseol (Story), Seungu (Art)","Nov  25, 2021 to "
+146,manhwa,What's Wrong with Secretary Kim?,98,Finished,"Comedy,Romance",3933,7.64,"Kim, Myeongmi (Story & Art), Jung, Kyung-Yoon (Story)","Jun  28, 2016 to Sep  19, 2018"
+147,manhwa,Princess,NULL,Publishing,"Adventure,Drama,Fantasy",8108,7.63,"Han, Seung-Won (Story & Art)",1995 to 
+148,manhwa,The First Night With the Duke,102,Finished,"Fantasy,Romance",4761,7.63,"Hwang, Dotol (Story), MSG (Art)","Jul  7, 2020 to Jul  6, 2022"
+149,manhwa,Killer Crush,NULL,Publishing,"Love,Comedy",13576,7.63,Eresemo (Story & Art),"Sep  2, 2021 to "
+150,manhwa,Taste of Illness,15,Finished,Drama,5946,7.63,"Ha, Il-Kwon (Story & Art)","Aug  4, 2018 to Jan  26, 2019"
+151,manhwa,Transparent Cohabitation,47,Finished,"Drama,Romance,Supernatural",2961,7.62,Jeongseo (Story & Art),"Apr  18, 2016 to Mar  13, 2017"
+152,manhwa,The Pale Horse,307,Finished,"Drama,Mystery,Romance,Supernatural",4184,7.62,"Choo, Hae-Yun (Story & Art)","Sep  15, 2011 to Nov  18, 2020"
+153,manhwa,My Blasted Reincarnated Life,NULL,Publishing,"Action,Fantasy",1709,7.62,"Park, Jeongyeol (Art), Mongma (Story)","Jun  22, 2022 to "
+154,manhwa,Salty Studio,66,Finished,"Comedy,Romance,Life",5068,7.62,Omyo (Story & Art),"Oct  31, 2013 to Mar  19, 2015"
+155,manhwa,Transfer Student Storm Bringer,91,Finished,"Action,Comedy",2470,7.61,Gangnengyi (Story & Art),"Apr  5, 2010 to Aug  21, 2012"
+156,manhwa,Majeh,414,Finished,"Action,Adventure,Fantasy,Supernatural",1935,7.61,"Kim, Jae-Hwan (Art), Na, In-Soo (Story)",2001 to  2015
+157,manhwa,Shotgun Boy,69,Finished,"Action,Horror,Suspense",2148,7.61,"Kim, Carnby (Story), Hongpil (Art)","Feb  22, 2021 to Jun  6, 2022"
+158,manhwa,The Siren: Becoming the Villain's Family,NULL,Publishing,"Drama,Fantasy,Romance",5604,7.61,"Sol, Leesu (Story), Poya (Art)","Dec  26, 2021 to "
+159,manhwa,Villain with a Crush,NULL,Publishing,Romance,5570,7.61,Seyoon (Story & Art),"Jul  20, 2022 to "
+160,manhwa,Gosu,232,Finished,"Action,Adventure",5422,7.6,"Mun, Jung-Hoo (Art), Ryu, Ki Woon (Story)","Sep  8, 2015 to Apr  13, 2021"
+161,manhwa,For Better or For Worse,116,Finished,"Fantasy,Romance",9430,7.6,"No Heeda (Story), Eunren (Art)","Nov  17, 2020 to Mar  11, 2023"
+162,manhwa,Saving My Sweetheart,NULL,Publishing,"Drama,Fantasy",7485,7.6,"Mayak Jelly (Story), Kim, Jiui (Art)","Mar  20, 2021 to "
+163,manhwa,Teen Spirit,25,Finished,"Comedy,Drama",3938,7.6,"Kim, Jea-Eun (Story & Art)",2009 to  2011
+164,manhwa,Angel Diary,60,Finished,"Comedy,Fantasy,Romance,Supernatural",3534,7.59,"Kara (Art), Lee, Yun-hee (Story)",2005 to  2009
+165,manhwa,My Reason to Die,NULL,Publishing,"Drama,Romance",6254,7.59,Yuju (Story & Art),"Dec  7, 2021 to "
+166,manhwa,Light and Shadow,NULL,Publishing,"Drama,Fantasy,Romance",5195,7.58,"Ryu Hyang (Story), Heewon (Art)","Dec  27, 2016 to "
+167,manhwa,Park Hanhoo's Manager,76,Finished,Love,21266,7.58,"Kim, Tac (Story & Art)","Nov  17, 2020 to Dec  21, 2021"
+168,manhwa,Secret Lady,NULL,Publishing,"Fantasy,Romance",7025,7.58,"Banana (Art), Anngato (Story)","May  4, 2021 to "
+169,manhwa,I Wish...,50,Finished,"Drama,Romance,Life,Supernatural",8887,7.58,"Suh, Hyun-Ju (Story & Art)",2000 to 
+170,manhwa,Dear My Girls,33,Finished,"Comedy,Drama,Romance",3077,7.58,"Kim, Hee Eun (Story & Art), Alcott, Louisa May (Story)",2005 to  2012
+171,manhwa,He's Dedicated to Roses,NULL,Finished,"Comedy,Drama,Romance,Life",1754,7.58,"Hwang, Mi Ri (Story & Art)","Jan  26, 2007 to Feb  10, 2007"
+172,manhwa,100% Perfect Girl,83,Finished,"Drama,Romance",2031,7.57,Wann (Story & Art),"Aug  22, 2006 to Nov  5, 2009"
+173,manhwa,Can't Lose You,35,Finished,"Drama,Romance",5483,7.57,Wann (Story & Art),2003 to 
+174,manhwa,Immortal Regis,44,Finished,"Action,Supernatural",796,7.57,"Juder (Art), Deo, JYU (Story & Art)",2006 to  2008
+175,manhwa,Ciel,NULL,Finished,"Adventure,Fantasy,Romance",4702,7.57,"Rhim, Ju-Yeon (Story & Art)",2005 to  2013
+176,manhwa,Latna Saga: Survival of a Sword King,NULL,Publishing,"Action,Adventure,Fantasy",2334,7.57,"Yim, Kyung-bae (Story), Kwon, Soonkyu (Art)","Dec  31, 2019 to "
+177,manhwa,Level Up with the Gods,NULL,Publishing,"Action,Adventure,Fantasy",2126,7.57,"Heuk Ain (Story), Ohyeon (Art)","Aug  14, 2021 to "
+178,manhwa,My Beautiful World,68,Finished,"Comedy,Romance",4897,7.57,Maru (Story & Art),"Nov  15, 2013 to Jul  3, 2015"
+179,manhwa,Kiss Wood,34,Finished,"Adventure,Drama,Fantasy",5634,7.56,"Ahn, Sung Ho (Story & Art)","Jun  5, 2010 to Jan  29, 2011"
+180,manhwa,Girls of the Wild's,260,Finished,"Action,Comedy,Drama,Romance",205,7.56,"Kim, Hye-Jin (Art), Hun (Story)","Aug  14, 2011 to Oct  29, 2016"
+181,manhwa,The Makeup Remover,26,Finished,"Comedy,Romance",3402,7.56,"Lee, Yeon (Story & Art)","May  4, 2018 to Nov  12, 2020"
+182,manhwa,Devil Number 4,122,Finished,"Romance,Supernatural",3285,7.56,"woombeee (Art), jangjin (Story)","May  1, 2018 to Nov  16, 2020"
+183,manhwa,H20,43,Finished,"Romance,Life",5109,7.56,"Hwang, Sook Ji (Story & Art)",NULL
+184,manhwa,The Swordmaster's Son,NULL,Publishing,"Action,Adventure,Fantasy",1897,7.56,"Hwangje Penguin (Story), Lee, Jewon (Art)","Apr  30, 2022 to "
+185,manhwa,Second Life Ranker,NULL,Publishing,"Action,Fantasy",1347,7.56,"Sadoyeon (Story), Nongnong (Art)","May  16, 2019 to "
+186,manhwa,The Novel's Extra,NULL,Publishing,"Action,Fantasy",3054,7.56,"Ji, Gapsong (Story), Carrot Studio (Art)","Jun  30, 2022 to "
+187,manhwa,Debut or Die,NULL,Publishing,Drama,16553,7.56,"Baek, Deoksoo (Story), Soheun (Art)","Aug  1, 2022 to "
+188,manhwa,I'm the Max-Level Newbie,NULL,Publishing,"Action,Fantasy",1239,7.55,"Maslow (Story), Swing Bat (Art)","Jul  29, 2021 to "
+189,manhwa,Shall we Have Dinner Tonight?,46,Finished,"Comedy,Drama,Romance,Life",4749,7.55,"Park, See-In (Story & Art)","Nov  12, 2013 to Nov  5, 2014"
+190,manhwa,Masca: The Tale of the Great Mage of Hessed,77,Finished,"Drama,Fantasy,Romance,Supernatural",7539,7.54,"Kim, Young Hee (Story & Art)",1997 to  2004
+191,manhwa,Veritas,81,Finished,"Action,Comedy,Drama,Supernatural,Ecchi",885,7.54,"Yoon, Joon-shik (Story), Kim, Dong-Hoon (Art), Berry, Star (Story)",2005 to  2010
+192,manhwa,Cavalier of the Abyss,144,Finished,"Action,Adventure,Fantasy,Supernatural",1411,7.54,"Juder (Art), Deo, JYU (Story & Art)","2008 to Dec  15, 2018"
+193,manhwa,My Secret Brother,216,Finished,"Comedy,Drama,Romance,Life",3632,7.54,Willow (Story & Art),"Aug  8, 2014 to Oct  11, 2019"
+194,manhwa,The Villainess Is a Marionette,NULL,Publishing,"Drama,Fantasy",3223,7.54,"Hanirim (Story), Manggle (Art)","Feb  10, 2021 to "
+195,manhwa,Author of My Own Destiny,NULL,Publishing,"Fantasy,Romance",4477,7.54,"Gyeoulip (Story), Jeokbal (Art)","Aug  31, 2021 to "
+196,manhwa,The Reaper,NULL,Publishing,"Action,Fantasy",3407,7.54,"Woogack (Story), Inkyo (Art)","Jul  15, 2022 to "
+197,manhwa,Marry My Husband,68,Finished,"Drama,Romance,Suspense",3726,7.54,"LICO (Art), Sung, Sojak (Story)","Nov  2, 2021 to Jan  17, 2023"
+198,manhwa,Gilgamesh,129,Finished,"Action,Adventure,Fantasy",10269,7.54,Hwandaeng (Story & Art),"Aug  31, 2015 to Dec  11, 2017"
+199,manhwa,Murim Login,NULL,Publishing,"Action,Adventure,Fantasy",4258,7.53,"Zero-BIG (Story), Jang, Cheolbyeok (Art)","May  1, 2020 to "
+200,manhwa,Our Secret Alliance,NULL,Publishing,Romance,12258,7.53,Kenyam (Story & Art),"Jan  18, 2022 to "
+201,manhwa,Player,NULL,Publishing,"Action,Adventure,Fantasy",5201,7.53,"Park, Jongseok (Story), Oh, Hyeonjun (Art)","May  7, 2020 to "
+202,manhwa,Moon You,68,Finished,"Comedy,Drama,Sci-Fi",11764,7.53,"Jo, Seok (Story & Art)","Jun  16, 2016 to Sep  28, 2017"
+203,manhwa,"Mom, I'm Sorry",102,Finished,"Drama,Supernatural",7287,7.53,"MiTi (Story), Gugu (Art)","Jun  8, 2019 to Jul  10, 2021"
+204,manhwa,A Returner's Magic Should Be Special,NULL,Publishing,"Action,Fantasy",512,7.52,"Yu, So-nan (Story), Uk-jakga (Art)","May  19, 2018 to "
+205,manhwa,Red Lion,37,Finished,"Action,Comedy,Romance",4617,7.52,"Kim, Yong Seon (Story & Art)",2003 to 
+206,manhwa,World Bring It On!,NULL,Finished,"Comedy,Drama",7145,7.52,"Hwang, Mi Ri (Story & Art)","Jul  11, 2008 to Sep  27, 2008"
+207,manhwa,Knight Run,NULL,Publishing,"Action,Adventure,Drama,Fantasy,Sci-Fi",6268,7.52,"Kim, Sung Min (Story & Art)","May  4, 2009 to "
+208,manhwa,The Monstrous Duke's Adopted Daughter,150,Finished,"Drama,Fantasy,Romance",3489,7.52,"Liaran (Story), MinJakk (Art)","Apr  30, 2019 to Jul  20, 2022"
+209,manhwa,The Lazy Lord Masters the Sword,NULL,Publishing,"Action,Fantasy",2268,7.52,"Ideungbyeol (Story), Dodomoon (Art)","May  21, 2021 to "
+210,manhwa,Villainess in Love,105,Finished,"Fantasy,Romance",5674,7.52,"Lee, Haron (Story), R Su Eopseum (Art)","Dec  31, 2019 to Oct  5, 2022"
+211,manhwa,For My Derelict Favorite,NULL,Publishing,"Fantasy,Romance",8808,7.52,"Kim, Seonyu (Story), Kimyong (Art)","May  4, 2022 to "
+212,manhwa,Kids Are All Right,55,Finished,Drama,12520,7.52,HP56 (Story & Art),"Jun  13, 2014"
+213,manhwa,Crepuscule,253,Finished,Supernatural,1770,7.51,"Mirchi (Story), Yamchi (Art)","Feb  14, 2011 to Oct  9, 2016"
+214,manhwa,The Lady and Her Butler,NULL,Finished,"Comedy,Drama,Romance",5552,7.51,Jade (Story & Art),"Jun  10, 2017 to Jun  20, 2020"
+215,manhwa,Grass,17,Finished,Drama,19175,7.51,"Kim, Keum-suk (Story & Art)","Aug  14, 2017"
+216,manhwa,Honggane,56,Finished,"Comedy,Romance",4934,7.51,"Hwang, Mi Ri (Story & Art)",2005 to 
+217,manhwa,The Skeleton Soldier Failed to Defend the Dungeon,NULL,Publishing,"Action,Adventure,Fantasy",2200,7.51,"Sosori (Story), Ant Studio (Art)","Jun  11, 2018 to "
+218,manhwa,Little Rabbit and the Big Bad Leopard,NULL,Publishing,"Fantasy,Romance",6299,7.51,"Yasik Meongneunjung (Story), Sadam (Art)","May  22, 2021 to "
+219,manhwa,"Into the Light, Once Again",NULL,Publishing,"Drama,Fantasy",4109,7.51,"Tikatika (Story), Yuya (Art)","Sep  2, 2021 to "
+220,manhwa,Flirting with the Villain's Dad,NULL,Publishing,"Fantasy,Romance",2796,7.5,"Dalseul (Story), via (Art)","Apr  2, 2020 to "
+221,manhwa,Hero Killer,NULL,Publishing,Action,4225,7.5,"Kkulbeol (Story), Beolkkul (Art)","Feb  25, 2021 to "
+222,manhwa,The Villainess Flips the Script!,NULL,Publishing,Fantasy,5560,7.5,"Ken (Story), Garine (Art)","Apr  24, 2021 to "
+223,manhwa,Bloody Sweet,22,Finished,"Romance,Supernatural",4291,7.5,"Lee, Na-Rae (Story & Art)","Oct  22, 2014 to Feb  15, 2017"
+224,manhwa,Flow,103,Finished,"Action,Drama,Supernatural",3648,7.5,Honey Bee (Story & Art),"Jun  10, 2013 to Jun  16, 2015"
+225,manhwa,An Uncomfortable Truth,75,Finished,Suspense,9652,7.5,EErun (Story & Art),"Nov  25, 2016 to Apr  6, 2018"
+226,manhwa,When the Day Comes,54,Finished,Romance,15278,7.49,Omyo (Story & Art),"Jun  30, 2020 to Jul  6, 2021"
+227,manhwa,The Archmage Returns After 4000 Years,NULL,Publishing,"Action,Adventure,Fantasy",1590,7.49,"Nakhasan (Story), Kim, Deok-yong (Art)","May  1, 2020 to "
+228,manhwa,Dark Mortal,80,Finished,"Drama,Supernatural",11384,7.49,"Lee, Jeonyeok (Story & Art)","Dec  15, 2018 to Jun  13, 2020"
+229,manhwa,Pick Me Up!,NULL,Publishing,"Action,Fantasy",4619,7.49,"Wasakbasak (Art), Hermode (Story)","Dec  28, 2022 to "
+230,manhwa,Tales of the Unusual,396,Finished,"Horror,Mystery,Supernatural",6257,7.49,"Oh, Seongdae (Story & Art)","May  15, 2013 to May  4, 2022"
+231,manhwa,Secret Alliance,45,Finished,"Drama,Romance",6456,7.49,Lero (Story & Art),"Jul  5, 2019 to Mar  28, 2020"
+232,manhwa,I Don't Want This Kind of Hero,301,Finished,"Action,Comedy,Fantasy,Sci-Fi,Supernatural",4503,7.48,Samchon (Story & Art),"Nov  2, 2011 to Sep  19, 2017"
+233,manhwa,Hardcore Leveling Warrior,317,Finished,"Action,Adventure,Fantasy",4209,7.48,"Kim, Sehoon (Story & Art)","Jan  22, 2016 to Feb  19, 2022"
+234,manhwa,How to Use a Returner,NULL,Publishing,"Action,Adventure,Fantasy",3060,7.48,"Heuksujeo (Story), Midnight Studio (Art)","Oct  31, 2021 to "
+235,manhwa,Pyramid Game,105,Finished,Drama,16203,7.48,Dalgonyak (Story & Art),"Jan  22, 2020 to Mar  25, 2022"
+236,manhwa,Barbarian Quest,NULL,Publishing,"Action,Adventure,Fantasy",8185,7.48,"Baeksu Gwijok (Story), Morando (Art)","Apr  15, 2022 to "
+237,manhwa,The Infinite Mage,NULL,Publishing,"Action,Adventure,Fantasy",3463,7.48,"Themis (Art), Kim, Chiwoo (Story)","Dec  30, 2022 to "
+238,manhwa,Like Wind on a Dry Branch,NULL,Publishing,"Drama,Fantasy,Romance",4862,7.48,"Dalsaeowl (Story), Hwaeum (Art)","Sep  15, 2020 to "
+239,manhwa,Our Paradise,26,Finished,"Love,Drama",18550,7.48,"Cheong, Nagwon (Story & Art)","Oct  24, 2018 to Jun  26, 2019"
+240,manhwa,Sad Love Song,22,Finished,"Drama,Romance",9360,7.47,"Shin, Ji-Sang (Story & Art), Geo (Story & Art)",NULL
+241,manhwa,Jungle Juice,NULL,Publishing,"Action,Fantasy",2911,7.47,"Juder (Art), Hyeong Eun (Story)","Dec  30, 2020 to "
+242,manhwa,The Ember Knight,NULL,Publishing,"Action,Adventure,Fantasy",7295,7.47,Hwandaeng (Story & Art),"Mar  19, 2021 to "
+243,manhwa,After Ten Millennia in Hell,NULL,Publishing,"Action,Fantasy",1874,7.47,"Nabi Gyegok (Story), 4Player (Art)","Jul  31, 2022 to "
+244,manhwa,I Thought My Time Was Up!,NULL,Publishing,"Fantasy,Romance",11241,7.47,"Choi, Ari (Story), Essie (Art)","Oct  31, 2022 to "
+245,manhwa,Zippy Ziggy,86,Finished,Comedy,2380,7.46,"Kim, Yeong-Eun (Story), Hwang, Seung-Man (Art)","Apr  15, 2005 to "
+246,manhwa,Vampire Library,NULL,Publishing,"Action,Love,Supernatural",6610,7.46,"Lee, Sun-Young (Story & Art)","May  2, 2014 to "
+247,manhwa,My Daughter Is a Zombie,90,Finished,Comedy,19494,7.46,"Lee, Yunchang (Story & Art)","Aug  22, 2018 to May  20, 2020"
+248,manhwa,To Not Die,NULL,Publishing,"Action,Drama",7608,7.46,"Parae (Story), Lim, Jinguk (Art)","May  20, 2021 to "
+249,manhwa,Terror Man,209,Finished,"Action,Supernatural",7282,7.46,"Go, Jin-Ho (Art), Han, Dongwoo (Story)","Jan  11, 2016 to Apr  30, 2020"
+250,manhwa,Mythic Item Obtained,NULL,Publishing,"Action,Fantasy",2906,7.46,"Jeong, Seonyul (Story), Hess (Art)","Jun  12, 2022 to "
+251,manhwa,The World After the Fall,NULL,Publishing,"Action,Fantasy",1414,7.45,"sing N song (Story), Undead Gamja (Art)","Feb  7, 2022 to "
+252,manhwa,My Royal Awakening,88,Finished,Drama,18723,7.45,"Kim, Tae-Hyung (Art), Gusa (Story)","Sep  7, 2020 to Jun  6, 2022"
+253,manhwa,Pink Lady,78,Finished,"Romance,Life",4268,7.45,"Woo, Yeong-Wook (Story & Art), Suna (Art)","May  2, 2007 to Feb  23, 2009"
+254,manhwa,Peak,45,Finished,"Action,Drama",5280,7.45,"Hong, Seong-su (Story), Im, Gang-hyeok (Art)","Apr  20, 2011 to Nov  19, 2014"
+255,manhwa,Pig Bride,22,Finished,"Comedy,Romance",4872,7.45,"Huh, Gook Hwa (Story), Kim, Su-Jin (Art)",2007
+256,manhwa,Swimming Lessons for a Mermaid,101,Finished,"Romance,Supernatural",7834,7.44,Yongchan (Story & Art),"May  25, 2019 to Apr  17, 2021"
+257,manhwa,Our Beloved Summer,21,Finished,Romance,10914,7.44,"Han, Kyoung-chal (Story & Art)","Nov  5, 2021 to Feb  26, 2022"
+258,manhwa,Days of Hana,113,Finished,"Drama,Romance,Supernatural",10343,7.44,"Kang, Seok Woo (Story & Art)","Apr  5, 2017 to Jul  3, 2019"
+259,manhwa,Oh! Holy,141,Finished,"Romance,Supernatural",6750,7.44,Ah Hyun (Story & Art),"Jun  1, 2015 to Apr  2, 2018"
+260,manhwa,Revolutionary Princess Eve,NULL,Publishing,"Drama,Fantasy",6965,7.44,"Irinbi (Story), Sagong (Art)","Mar  13, 2021 to "
+261,manhwa,Finding Camellia,NULL,Publishing,"Fantasy,Romance",10878,7.44,"Jin, Soye (Story), Surreuk Comics (Art)","Aug  26, 2021 to "
+262,manhwa,Delusion,60,Finished,"Mystery,Supernatural,Suspense",18810,7.42,"Hong, Jac-Ga (Story & Art)","Sep  26, 2019 to Oct  8, 2020"
+263,manhwa,Promise of an Orchid,106,Finished,Supernatural,7784,7.43,"Park, Jin-Hwan (Art), Jung, Hyun-Joo (Story)","Jul  4, 2019 to Jun  24, 2021"
+264,manhwa,Crowning a Spoiled Prince,NULL,Publishing,"Fantasy,Romance",10601,7.43,"Wheedrian (Story), Jonadan (Art)","Aug  22, 2022 to "
+265,manhwa,A Kiss to the Prince,22,Finished,"Comedy,Drama,Romance",2459,7.43,"Kim, Hee Eun (Story & Art)","Aug  1, 2006 to Oct  31, 2007"
+266,manhwa,Idol Shopping,NULL,Finished,"Comedy,Drama,Romance",3872,7.43,"Hwang, Mi Ri (Story & Art)",Dec  2008 to Feb  2009
+267,manhwa,Mookhyang: Dark Lady,NULL,Publishing,"Action,Adventure,Fantasy",5914,7.43,"Jeon, Dong-jo (Story), Gugit (Art)","Jul  4, 2019 to "
+268,manhwa,Itaewon Class,80,Finished,Drama,15910,7.42,Kwang Jin (Story & Art),"Dec  27, 2016 to May  22, 2018"
+269,manhwa,Mawang Ilgi,26,Finished,"Action,Adventure,Love,Comedy,Drama,Fantasy",2515,7.42,"Kara (Art), Lee, Ji Hyong (Story), Lee, Soome (Story), Lee, Yun-hee (Story)",1999 to  2002
+270,manhwa,I Am the Real One,NULL,Publishing,"Fantasy,Romance",4370,7.42,"Samwol (Story), Yuun (Art)","Sep  30, 2020 to "
+271,manhwa,Study Group,NULL,Publishing,Action,3315,7.42,"Shin, Hyungwuk (Story), Ryu, Seungyeon (Art)","Jan  4, 2019 to "
+272,manhwa,Heavenly Demon Reborn!,NULL,Publishing,"Action,Fantasy",4841,7.42,"Ilhwang (Story), Gomguck (Art)","Aug  15, 2018 to "
+273,manhwa,I'm the Queen in This Life,NULL,Publishing,"Fantasy,Romance",8582,7.42,"Lefaljinf (Story), Themis (Art)","Aug  11, 2022 to "
+274,manhwa,An Eye for an Eye,75,Finished,"Action,Drama",5752,7.42,Byeongjang (Story & Art),"Dec  3, 2014 to Jul  27, 2016"
+275,manhwa,"Goodbye, In-Law!",81,Finished,"Comedy,Drama,Romance",12748,7.41,Gyogyo Park (Story & Art),"Sep  17, 2018 to Apr  20, 2020"
+276,manhwa,The Academy's Undercover Professor,NULL,Publishing,Fantasy,3700,7.41,"Sayren (Story), WAG (Art)","Jun  4, 2022 to "
+277,manhwa,Revelation of Youth,NULL,Publishing,Romance,18750,7.41,Hanseo (Story & Art),"Nov  5, 2022 to "
+278,manhwa,Angel Buddy,82,Finished,"Love,Supernatural",12278,7.4,"MasterGin (Story), Chungnyun (Art)","Nov  21, 2019 to Sep  2, 2021"
+279,manhwa,I Only Want to Beat You,NULL,Publishing,Comedy,15375,7.4,"Amadoji (Story), Sasak (Art)","Jul  6, 2019 to "
+280,manhwa,Who Invited You?,NULL,Finished,"Comedy,Drama,Romance",9190,7.4,"Lee, Yun-hee (Story & Art)","Jul  13, 2016 to Nov  15, 2017"
+281,manhwa,Smile Brush: My Old Pictures,48,Finished,"Comedy,Life",15788,7.4,Waroo (Story & Art),"Jul  20, 2010 to Jul  21, 2011"
+282,manhwa,Priest,160,Finished,"Action,Fantasy,Horror,Supernatural",3021,7.39,"Hyung, Min-Woo (Story & Art)",1998 to  2007
+283,manhwa,Kiss Me Princess,63,Finished,"Love,Fantasy,Romance",4535,7.39,"Kim, Se-Young (Story & Art)",2002 to  2006
+284,manhwa,Change Guy,338,Finished,Action,5991,7.39,"Son, Eun-Ho (Story), Choi, Myung-Soo (Art)",1998 to  2004
+285,manhwa,Survive as the Hero's Wife,118,Finished,"Fantasy,Romance",3151,7.39,"Nokki (Story), AhBin (Art)","Dec  31, 2018 to Dec  4, 2021"
+286,manhwa,A Wicked Tale of Cinderella's Stepmom,NULL,Publishing,"Fantasy,Romance",7770,7.39,"Kiarne (Story), Sunset (Art)","Sep  26, 2020 to "
+287,manhwa,Who Can Define Popularity?,NULL,Publishing,"Love,Comedy",20642,7.39,Takbon (Story & Art),"May  9, 2020 to "
+288,manhwa,Mad Dog,NULL,Publishing,"Love,Drama",12220,7.39,Haribo (Story & Art),"Jun  17, 2021 to "
+289,manhwa,The Villainess's Stationery Shop,NULL,Publishing,Fantasy,6673,7.39,"Yeo, Roeun (Story), Min, Jeolmi (Art)","Mar  26, 2022 to "
+290,manhwa,The Baengri Clan's Unwanted Granddaughter,NULL,Publishing,Fantasy,14198,7.39,"Siyo (Art), Marubyeol (Story)","Jan  22, 2023 to "
+291,manhwa,Hwaja,10,Finished,"Drama,Mystery,Romance,Life",5434,7.39,"Hong, Jac-Ga (Story & Art)","Jun  6, 2011 to Feb  20, 2012"
+292,manhwa,It's Mine,158,Finished,Suspense,6781,7.38,Lucks (Story & Art),"May  8, 2018 to Aug  11, 2021"
+293,manhwa,Chasing Tails,NULL,Publishing,Mystery,19837,7.38,Bashi (Story & Art),"Jul  9, 2021 to "
+294,manhwa,Child of the Sheath,NULL,Publishing,"Action,Adventure,Fantasy",12483,7.38,"Yang, Kyung-il (Art), Kim, Hyung Min (Story)","Feb  1, 2020 to "
+295,manhwa,Becoming the Dark Hero's Daughter,NULL,Publishing,Fantasy,9195,7.38,"Lisabel (Story), Pina (Art)","Jul  22, 2021 to "
+296,manhwa,Evyione,NULL,Finished,Romance,9997,7.38,"Kim, Young Hee (Story & Art)",2007 to  2013
+297,manhwa,Tong: Vanity,NULL,Finished,"Action,Drama",26568,7.37,"Baek, Seung Hoon (Art), Meen (Story)","May  9, 2015 to Apr  29, 2017"
+298,manhwa,July Found by Chance,55,Finished,"Drama,Romance,Supernatural",17443,7.37,Muryu (Story & Art),"Jan  18, 2018 to Sep  19, 2019"
+299,manhwa,The Queen's Knight,79,Finished,"Adventure,Fantasy,Romance",6579,7.37,"Kim, Kang-Won (Story & Art)",1997 to  2005
+300,manhwa,Masters of Lightning Knives,NULL,Publishing,Action,7922,7.37,"Awin (Art), Geom, Ryuhon (Story), Ozoo (Story)","Dec  12, 2019 to "
+301,manhwa,Refund High School,134,Finished,Fantasy,11588,7.37,Croissant (Story & Art),"Mar  20, 2018 to Jun  14, 2019"
+302,manhwa,Superhuman Era,NULL,Publishing,Action,14402,7.37,Seop-I (Story & Art),"Jul  12, 2019 to "
+303,manhwa,Not-Sew-Wicked Stepmom,NULL,Publishing,Fantasy,6153,7.37,"Ilu (Story), Moguraeng (Art)","Apr  10, 2021 to "
+304,manhwa,The Queen's Knight,79,Finished,"Adventure,Fantasy,Romance",6580,7.37,"Kim, Kang-Won (Story & Art)",1997 to  2005
+305,manhwa,Cutie Boy,39,Finished,"Comedy,Romance",2971,7.37,"Hwang, Mi Ri (Story & Art)",NULL
+306,manhwa,Antique Romance,27,Finished,"Drama,Romance",4661,7.37,"Kimi, Mi-jung (Story & Art)",2006
+307,manhwa,Vanilla Ice,21,On Hiatus,"Comedy,Romance",7330,7.36,"Kim, Woo Hyun (Story & Art)","2002 to Feb  23, 2004"
+308,manhwa,Boy of the Female Wolf,NULL,Finished,"Comedy,Romance",2667,7.36,"Han, Yu-Rang (Story & Art)","Sep  6, 2007 to Nov  13, 2007"
+309,manhwa,Blooming Sequence,77,Finished,Love,16224,7.36,Lee Eul (Story & Art),"Aug  7, 2017 to Jan  14, 2019"
+310,manhwa,Tomb Raider King,412,Finished,"Action,Adventure,Fantasy",701,7.36,"Sanji Jiksong (Story), 3B2S (Art)","Jun  30, 2019 to Mar  27, 2023"
+311,manhwa,Song of the Cloud,63,Finished,"Drama,Romance,Life",6530,7.36,Horang (Story & Art),"Apr  13, 2009 to Jun  21, 2010"
+312,manhwa,God of Bath,30,Finished,"Comedy,Drama,Life",5642,7.36,"Ha, Il-Kwon (Story & Art)","Jul  14, 2011 to Feb  16, 2012"
+313,manhwa,Nano List,147,Finished,"Drama,Sci-Fi",10895,7.36,"Min, Song-A (Story & Art)","Jan  22, 2016 to Nov  23, 2018"
+314,manhwa,I Married the Male Lead's Dad,NULL,Publishing,"Fantasy,Romance",6697,7.36,"Go, Eunchae (Story), Eongsseu (Art)","Nov  30, 2020 to "
+315,manhwa,Ending Maker,NULL,Publishing,"Action,Fantasy,Romance",6468,7.36,"Chwiryong (Story), Does (Art)","May  29, 2022 to "
+316,manhwa,There Is No Place for Fakes,NULL,Publishing,"Fantasy,Romance",13425,7.36,"Logo (Art), Oaen (Story)","Jan  31, 2023 to "
+317,manhwa,The Return of the 8th Class Mage,81,Finished,"Action,Fantasy",2234,7.35,"Ryu Song (Story), Tess (Art)","Jul  2, 2021 to Dec  25, 2022"
+318,manhwa,The Return of the Disaster-Class Hero,NULL,Publishing,"Action,Fantasy",1779,7.35,"Sanji Jiksong (Story), Lee, Beomgeun (Art)","Dec  23, 2021 to "
+319,manhwa,Ashtarte,NULL,Publishing,"Fantasy,Romance",13482,7.35,"Andaon (Story), SOON (Art)","Jul  31, 2022 to "
+320,manhwa,Revenge of the Iron-Blooded Sword Hound,NULL,Publishing,"Action,Fantasy",4736,7.35,"Lego Babasseo (Story), Seol, Arang (Art)","Apr  14, 2023 to "
+321,manhwa,Rebirth,107,Finished,"Action,Adventure,Fantasy,Supernatural",6640,7.35,"Lee, Kang-Woo (Story & Art)",1998 to  2010
+322,manhwa,Sugar Addiction,38,Finished,"Comedy,Drama,Romance",11060,7.35,"Maria (Story & Art), Gong, GooGoo (Story & Art)",2005
+323,manhwa,Tong,NULL,Finished,"Action,Drama",15477,7.35,"Baek, Seung Hoon (Art), Meen (Story)",Jan  2013 to Dec  2013
+324,manhwa,Save Me,63,Finished,Drama,10870,7.35,1230 (Story & Art),"Dec  13, 2016 to Dec  26, 2017"
+325,manhwa,Trace 1.5: Communicator,39,Finished,"Action,Drama,Fantasy,Sci-Fi,Supernatural",12493,7.35,"Go, Yeong-Hun (Story & Art)","Dec  19, 2011 to May  21, 2012"
+326,manhwa,Zero,70,Finished,"Action,Sci-Fi,Supernatural",3503,7.34,"Park, Sung-Woo (Story & Art), Im, Dal Young (Story)",2000 to  2005
+327,manhwa,Sarasah,NULL,Publishing,"Comedy,Drama,Romance",8125,7.34,"Ryu, Riang (Story & Art)",2007 to 
+328,manhwa,Manager Kim,NULL,Publishing,Action,4791,7.34,"Toy (Story), Jeong, Jongtaek (Art)","Oct  29, 2021 to "
+329,manhwa,Act Like You Love Me!,NULL,Publishing,"Comedy,Romance,Supernatural",6783,7.34,Xuann (Story & Art),"Dec  11, 2020 to "
+330,manhwa,The Little Lady Behind the Scenes,NULL,Publishing,"Fantasy,Romance",9263,7.34,"Yehwon (Story), Chunghae (Art)","Oct  31, 2021 to "
+331,manhwa,Yeonwoo's Innocence,NULL,Publishing,Drama,14098,7.34,Esol (Story & Art),"Sep  21, 2020 to "
+332,manhwa,Parallel City,NULL,Publishing,"Action,Sci-Fi,Suspense",20168,7.33,Goda (Story & Art),"Jul  6, 2019 to "
+333,manhwa,The Girl Downstairs,149,Finished,Romance,9013,7.33,"Min, Song-A (Story & Art)","Jul  17, 2019 to Jun  16, 2022"
+334,manhwa,No Longer a Heroine!,111,Finished,Drama,16450,7.33,"Ki, Maenggi (Story & Art)","Dec  17, 2019 to Feb  1, 2022"
+335,manhwa,The Rewards of Marriage,NULL,Publishing,"Fantasy,Romance",7525,7.33,"Choam (Story), Seochon (Art)","Jan  12, 2022 to "
+336,manhwa,Kill the Villainess,NULL,Publishing,"Drama,Fantasy",4435,7.33,"Sawol Saeng (Story), Haegi (Art)","Apr  2, 2021 to "
+337,manhwa,Charming the Duke of the North,NULL,Publishing,"Fantasy,Romance",7758,7.33,"Ju, Siha (Story), Eunhasu (Art)","May  8, 2022 to "
+338,manhwa,Existence,NULL,Publishing,"Action,Drama,Supernatural",2965,7.33,"Kwang Jin (Story), Kim, Kyeongjun (Art)","Aug  21, 2022 to "
+339,manhwa,Reality Quest,NULL,Publishing,"Action,Supernatural",5513,7.33,"Lee, Joowoon (Story), Taeseong (Art)","Oct  26, 2021 to "
+340,manhwa,Full House,122,Finished,"Comedy,Romance",8123,7.33,"Won, Soo-yeon (Story & Art)",2002 to  2007
+341,manhwa,Do You Want to Try?,18,Finished,"Comedy,Drama,Romance",3364,7.33,"Cha, Kyung Hee (Story & Art)",NULL
+342,manhwa,Abide in the Wind,NULL,Finished,"Action,Adventure,Drama,Fantasy,Romance",3763,7.33,Shinweol (Story & Art),"Dec  1, 2011 to Aug  19, 2015"
+343,manhwa,I'm Looking for the Princess,NULL,Finished,"Comedy,Drama,Romance",12753,7.32,"Han, Yu-Rang (Story & Art)","Jul  7, 2008 to Aug  9, 2008"
+344,manhwa,My Boyfriend Is a Vampire,48,Finished,"Drama,Romance",2969,7.32,"Han, Yu-Rang (Story & Art)",2010 to  2012
+345,manhwa,Dark Air,91,Finished,"Action,Adventure,Fantasy",3337,7.32,"Park, Min-Seo (Story & Art)",2010 to Jan  2016
+346,manhwa,For the Sake of Sita,14,Finished,"Drama,Romance",5420,7.32,Haga (Story & Art),"Jun  13, 2014 to Sep  12, 2014"
+347,manhwa,Dokgo 2,NULL,Finished,"Action,Drama",13908,7.32,"Baek, Seung Hoon (Art), Meen (Story)","Dec  10, 2016 to Oct  14, 2018"
+348,manhwa,I Was Tricked Into This Fake Marriage!,108,Finished,"Fantasy,Romance",6726,7.32,"Park, Haedam (Story), Baejeup (Art)","Nov  30, 2019 to Apr  10, 2022"
+349,manhwa,I Stan the Prince,NULL,Publishing,"Comedy,Fantasy,Romance",7877,7.32,Jukseon (Story & Art),"Feb  17, 2020 to "
+350,manhwa,I Was Tricked Into This Fake Marriage!,108,Finished,"Fantasy,Romance",6726,7.32,"Park, Haedam (Story), Baejeup (Art)","Nov  30, 2019 to Apr  10, 2022"
+351,manhwa,I Stan the Prince,NULL,Publishing,"Comedy,Fantasy,Romance",7877,7.32,Jukseon (Story & Art),"Feb  17, 2020 to "
+352,manhwa,Descended from Divinity,NULL,Publishing,"Action,Fantasy",5173,7.32,"Sancheon (Story), Altoran (Art), Upu (Art)","Jun  14, 2021 to "
+353,manhwa,If AI Ruled the World,52,Finished,Sci-Fi,21689,7.32,"Pogo (Story), Hoopa (Art)","Sep  29, 2020 to Aug  21, 2021"
+354,manhwa,My Daughter Is the Final Boss,NULL,Publishing,"Action,Fantasy",4299,7.32,"Geulsseunya (Story), RK Studio (Art)","Apr  14, 2022 to "
+355,manhwa,Castle,120,Finished,Action,17656,7.32,Jeong Yeon (Story & Art),"Nov  26, 2019 to Feb  15, 2022"
+356,manhwa,Sigrid,NULL,Publishing,"Action,Fantasy,Romance",15785,7.32,"Siya (Story), Glee (Art)","Dec  31, 2022 to "
+357,manhwa,For the Sake of Sita,14,Finished,"Drama,Romance",5420,7.32,Haga (Story & Art),"Jun  13, 2014 to Sep  12, 2014"
+358,manhwa,Supernatural Investigation Department,376,Finished,"Action,Comedy,Mystery,Supernatural",5007,7.31,"Da-Ham, Sa (Story & Art)","May  12, 2010 to Aug  12, 2020"
+359,manhwa,DVD,40,Finished,"Comedy,Romance,Life",14823,7.31,"Chon, Kye Young (Story & Art)","Dec  25, 2003 to Dec  14, 2005"
+360,manhwa,Dear Waltz,NULL,Finished,"Romance,Life",15426,7.31,"Yoon, Ji Woon (Story & Art)",2007 to  2010
+361,manhwa,Random Chat,NULL,Publishing,"Action,Drama",5166,7.31,"Park, Eun Hyuk (Story & Art)","Nov  13, 2017 to "
+362,manhwa,Karina's Last Days,NULL,Publishing,"Drama,Fantasy,Romance",8466,7.31,"Ja, Eunhyang (Story), Kimpeul (Art)","Nov  20, 2021 to "
+363,manhwa,Rumor Has It,69,Finished,Romance,14908,7.31,Sungeo (Story & Art),"Jun  12, 2019 to Sep  9, 2020"
+364,manhwa,Efforts Never Betray,31,Finished,Drama,23031,7.31,Akpa (Story & Art),"Mar  20, 2020 to Sep  13, 2020"
+365,manhwa,My Gently Raised Beast,106,Finished,"Fantasy,Romance",4402,7.3,"Ireun-kkot (Story), Yeo-seulgi (Art)","Dec  11, 2020 to Sep  24, 2022"
+366,manhwa,Your Smile is a Trap,NULL,Publishing,"Comedy,Romance",9643,7.3,Aengo (Story & Art),"Mar  9, 2020 to "
+367,manhwa,The Villainess Is Retiring,NULL,Publishing,"Fantasy,Romance",8379,7.3,"Kim, Daham (Story), Bebe (Art)","Feb  25, 2021 to "
+368,manhwa,My Darling Signed In,104,Finished,Love,12633,7.3,"New Lung (Story), Dimang (Art)","Jul  1, 2017 to Nov  17, 2019"
+369,manhwa,Magical JxR,24,Finished,"Adventure,Comedy,Drama,Fantasy,Romance,Supernatural",10767,7.3,"Lee, Sun-Young (Story & Art)",2006
+370,manhwa,Bal Jak,85,Finished,"Action,Adventure,Comedy,Ecchi",7255,7.3,"Kim, Young-Oh (Art), Young, Jeon Sang (Story)",2000 to 
+371,manhwa,Moon Boy,50,Finished,"Action,Comedy,Drama,Fantasy,Romance,Supernatural",8286,7.29,"Lee, Young-You (Story & Art)",2005 to  2009
+372,manhwa,Shaman Warrior,72,Finished,"Action,Adventure,Drama,Fantasy",3734,7.29,"Park, Joong-Ki (Story & Art)","Dec  1, 2003 to Sep  18, 2006"
+373,manhwa,Aflame Inferno,50,On Hiatus,"Action,Adventure,Ecchi",1674,7.29,"Im, Dal Young (Story), Kim, Kwang Hyun (Art)","Apr  1, 2006 to Sep  2010"
+374,manhwa,Daddy Long Legs,14,Finished,"Drama,Romance",10813,7.29,"Do, Chan (Story & Art)",2004 to  2005
+375,manhwa,Wait!! Wolf,NULL,Finished,Comedy,10523,7.29,"Hwang, Mi Ri (Story & Art)",NULL
+376,manhwa,My Life's Tackle,NULL,Finished,"Comedy,Romance",9181,7.29,"Hwang, Mi Ri (Story & Art)","Jan  7, 2008 to Mar  15, 2008"
+377,manhwa,Back to You,115,Finished,"Drama,Romance,Supernatural",10153,7.29,Honey Bee (Story & Art),"Jan  3, 2020 to Mar  6, 2022"
+378,manhwa,The Legendary Moonlight Sculptor,NULL,Publishing,"Action,Adventure,Fantasy",4364,7.29,"Kim, Tae-Hyung (Art), Nam, Heesung (Story), Shin C (Art), Park, Jeongyeol (Art)","Feb  16, 2015 to "
+379,manhwa,The Blood of the Butterfly,83,Finished,"Action,Fantasy",12428,7.29,Remin (Story & Art),"Jul  9, 2020 to Jan  13, 2022"
+380,manhwa,Elixir of the Sun,NULL,Publishing,"Drama,Fantasy,Romance",16393,7.29,"Solddam (Story), Song Yi (Art)","Nov  22, 2020 to "
+381,manhwa,Dungeon Odyssey,NULL,Publishing,"Action,Fantasy",5821,7.29,"Glump (Story), Son, Minwoo (Art)","Sep  26, 2022 to "
+382,manhwa,Warrior High School: Dungeon Raid Department,NULL,Publishing,"Action,Fantasy",5019,7.29,"Munsik (Story), Jutama (Art)","Oct  2, 2022 to "
+383,manhwa,Lessa,292,Finished,"Action,Supernatural",8508,7.29,Pogo (Story & Art),"Jun  21, 2012 to Nov  17, 2020"
+384,manhwa,A Shoulder to Cry On,30,Finished,Love,13678,7.29,Dongmul (Story & Art),"Oct  20, 2018 to Aug  10, 2019"
+385,manhwa,I Will Be Cinderella,NULL,Finished,Unknown,11135,7.29,"Hwang, Mi Ri (Story & Art)",NULL
+386,manhwa,The Sword of Emperor,44,Finished,"Action,Fantasy",8417,7.28,None,2004 to 
+387,manhwa,A Man's Man,NULL,Publishing,Drama,16648,7.28,"Dogado (Art), Kim, Taegung (Story)","Jul  30, 2020 to "
+388,manhwa,FFF-Class Trashero,NULL,Publishing,"Action,Adventure,Fantasy",2319,7.28,"Parnar (Story), Kkangmu (Art)","Sep  17, 2019 to "
+389,manhwa,Touch My Little Brother and You're Dead,NULL,Publishing,"Comedy,Fantasy",8246,7.28,"Morpho (Story), Webjak Toonga (Art)","Jul  1, 2021 to "
+390,manhwa,Relationship Guidelines,82,Finished,Love,14024,7.28,Epum (Story & Art),"Oct  3, 2020 to Apr  12, 2022"
+391,manhwa,The Strongest Characters in the World Are Obsessed with Me,NULL,Publishing,Fantasy,8462,7.28,"Kim, Kokkiri (Story), Zion (Art)","Sep  30, 2021 to "
+392,manhwa,Doctor's Rebirth,NULL,Publishing,"Action,Fantasy",5874,7.28,"Taesun (Story), Dobin (Art)","Jan  16, 2021 to "
+393,manhwa,Neck and Neck,40,Finished,"Comedy,Romance",12262,7.28,"Lee, Sun Hee (Story & Art)",2002 to  2005
+394,manhwa,Chunchu: The Genocide Fiend,NULL,Finished,"Action,Adventure,Fantasy,Supernatural",5529,7.28,"Kim, Sungjae (Story), Kim, Byung Jin (Art)",2000 to  2007
+395,manhwa,The Moment When a Fox Becomes a Wolf,46,Finished,"Action,Comedy,Drama,Romance",6235,7.28,"Hwang, Mi Ri (Story & Art)",NULL
+396,manhwa,Love and Leashes,146,Finished,"Comedy,Drama,Romance,Life",9530,7.28,Gyeoul (Story & Art),"Mar  20, 2015 to Aug  17, 2018"
+397,manhwa,Suicide Boy,NULL,Publishing,"Comedy,Life",1536,7.28,Parkgee (Story & Art),"Aug  12, 2017 to "
+398,manhwa,The Love Doctor,86,Finished,Love,18435,7.27,"Chamsae (Story), Bansook (Art)","Apr  23, 2016 to Dec  9, 2017"
+399,manhwa,Forget About Love,NULL,Finished,"Comedy,Romance",9238,7.27,"Lee, Sang-Eun (Story & Art)",NULL
+400,manhwa,SiESTA,NULL,Finished,"Fantasy,Romance,Supernatural",8075,7.27,"Lee, Young-You (Story & Art)",2010 to  2013
+401,manhwa,The Story of a Low-Rank Soldier Becoming a Monarch,NULL,Publishing,"Action,Fantasy",7493,7.27,"Soul Pung (Story), 2631 (Art)","Dec  24, 2020 to "
+402,manhwa,An Hour of Romance,NULL,Publishing,"Comedy,Romance",19264,7.27,"Kim, Myeongmi (Story & Art)","Feb  22, 2020 to "
+403,manhwa,"Forget About My Husband, I'd Rather Go Make Money",NULL,Publishing,"Fantasy,Romance",11376,7.27,"Ju, Haeon (Story), Molko (Art)","Aug  11, 2022 to "
+404,manhwa,I'm Being Raised by Villains,NULL,Publishing,"Fantasy,Romance",17329,7.27,"Ja, Eunhyang (Story), Lee, Asong (Art)","May  12, 2023 to "
+405,manhwa,Cheonnyeon Kumiho,248,Finished,"Adventure,Comedy,Fantasy,Romance,Supernatural",8259,7.27,Giryang (Story & Art),"Nov  4, 2011 to Sep  16, 2016"
+406,manhwa,Yeonae Hyeokmyeong,NULL,Publishing,"Comedy,Drama,Romance,Life",10713,7.26,232 (Story & Art),"Sep  4, 2013 to "
+407,manhwa,The Grand Mudang Saga,NULL,Publishing,"Action,Fantasy",7073,7.26,"Eunyeol (Story), Hwaram (Art)","Oct  31, 2020 to "
+408,manhwa,My Cute Beast!,101,Finished,"Comedy,Romance",21205,7.26,"Heim (Story), Jeong, Haesol (Art)","Apr  1, 2018 to Jun  22, 2020"
+409,manhwa,The Gourmet Gamer,NULL,Publishing,"Fantasy,Gourmet",19070,7.26,"Kidari Studio (Art), In, Key-young (Story)","Apr  30, 2021 to "
+410,manhwa,To Be an Actor,NULL,Publishing,Drama,25170,7.26,"Gogwang (Story), Dusi (Art)","Sep  30, 2022 to "
+411,manhwa,Master Villainess the Invincible!,NULL,Publishing,"Action,Fantasy",9262,7.25,"Willbright (Story), Yooani (Art)","Dec  31, 2020 to "
+412,manhwa,Baroness Goes on Strike,NULL,Publishing,"Fantasy,Romance",7856,7.25,"Go, Eunchae (Story), Song, Yeseul (Art)","Sep  19, 2021 to "
+413,manhwa,The Divine Surgeon,NULL,Publishing,Drama,11618,7.25,"Park, Dongshin (Story), Choi, Byungick (Art)","Jan  31, 2022 to "
+414,manhwa,Tong: Classified,NULL,Finished,"Action,Drama",26048,7.25,"Baek, Seung Hoon (Art), Meen (Story)","Jan  19, 2014 to Mar  29, 2015"
+415,manhwa,Lady Detective,NULL,Finished,"Mystery,Romance",11881,7.25,"Lee, Gi Ha (Art), Jeon, Hye Jin (Story)","Apr  26, 2011 to Feb  19, 2013"
+416,manhwa,Peter Panda,24,Finished,"Comedy,Drama,Romance,Supernatural",12668,7.25,"Na, Yeri (Story & Art)",2005
+417,manhwa,Romance Papa,33,Finished,"Comedy,Drama,Romance",17528,7.25,"Lee, Youngran (Story & Art)","Dec  5, 2007 to Dec  17, 2008"
+418,manhwa,Snow Drop,39,Finished,"Drama,Romance,Life",6951,7.24,"Choi, Kyung-ah (Story & Art)",Sep  1998 to  2003
+419,manhwa,MANA,22,Finished,Supernatural,9159,7.24,"Lee, Vin (Story & Art)",2006 to  2008
+420,manhwa,Volcanic Age,NULL,Publishing,"Action,Adventure,Fantasy",5608,7.24,"Jeong, Jun (Story), Tomassi (Art)","Sep  15, 2017 to "
+421,manhwa,Questism,NULL,Publishing,"Action,Supernatural",4215,7.24,"Yununi (Story), Taewan (Art)","Oct  22, 2021 to "
+422,manhwa,Please Marry Me Again!,NULL,Publishing,"Fantasy,Romance",12119,7.24,"Rana (Story), Paragu (Art)","Feb  16, 2022 to "
+423,manhwa,Reborn Rich,NULL,Publishing,Drama,17510,7.24,"Kim, Byung-gwan (Art), Sangyeong (Story)","Sep  28, 2022 to "
+424,manhwa,Solo Farming in the Tower,NULL,Publishing,Fantasy,14670,7.24,"sdcknight (Story), Lee, Hakyung (Art)","Apr  20, 2023 to "
+425,manhwa,Wait Where the Shooting Star Falls,NULL,Publishing,"Adventure,Drama,Fantasy,Romance",19048,7.24,Manmulsang (Story & Art),"Aug  25, 2018 to "
+426,manhwa,Jazz for Two,74,Finished,"Love,Drama",15623,7.24,Clarju (Story & Art),"Oct  27, 2017 to Jun  21, 2019"
+427,manhwa,Nowhere Boy,31,Finished,"Action,Comedy,Drama,Fantasy",5298,7.24,"Jung, Pil Won (Story & Art)","Jun  15, 2011 to Jan  18, 2012"
+428,manhwa,Delinquent Cinderella,NULL,Finished,"Comedy,Romance",7901,7.23,"Hwang, Mi Ri (Story & Art)",2010
+429,manhwa,Ghost Wife,134,Finished,"Romance,Supernatural",11537,7.23,Sejung (Story & Art),"Jun  17, 2016 to Jan  25, 2019"
+430,manhwa,"As You Wish, Prince",93,Finished,"Fantasy,Romance",7646,7.23,"Ant Studio (Art), Mokgamgi (Story)","Aug  31, 2018 to Oct  3, 2019"
+431,manhwa,Return to Player,NULL,Publishing,"Action,Fantasy",3342,7.23,"Index (Story), Sehon (Art)","Aug  21, 2020 to "
+432,manhwa,After the Curtain Call,51,Finished,"Drama,Love",25475,7.23,"Jina (Art), Assam (Story)","Jan  6, 2020 to Aug  6, 2020"
+433,manhwa,The Frozen Player Returns,NULL,Publishing,"Action,Adventure,Fantasy",2614,7.23,"JerryM (Story), Silsil (Art)","Mar  5, 2021 to "
+434,manhwa,Solitary Lady,NULL,Publishing,"Drama,Fantasy,Romance",5606,7.23,"Kin (Story), Mingsung (Art), ZI.O (Art)","Apr  30, 2021 to "
+435,manhwa,Demon Devourer,NULL,Publishing,"Action,Fantasy",4685,7.23,"Ppang Meongneunda Ramjwi (Story), DJ Gongnyong (Art)","Dec  31, 2021 to "
+436,manhwa,The Hero's Savior,NULL,Publishing,Fantasy,13840,7.23,"Eun, Soro (Story), Team Happy Gery (Art)","May  31, 2022 to "
+437,manhwa,Love Like Crazy,NULL,Finished,"Drama,Romance",7871,7.23,"Hwang, Mi Ri (Story & Art)","May  18, 2007 to Jul  14, 2007"
+438,manhwa,Raiders,36,Finished,"Action,Fantasy,Horror,Mystery,Supernatural",8277,7.23,"Park, Jin-Jun (Story & Art)",2006 to  2011
+439,manhwa,Smile Brush,35,Finished,"Comedy,Life",16470,7.23,Waroo (Story & Art),"Dec  21, 2009"
+440,manhwa,Imitation,NULL,Finished,Romance,12225,7.23,"Park, Kyun-Ran (Story & Art)","Sep  30, 2014 to Sep  21, 2021"
+441,manhwa,The Moon That Rises in the Day,NULL,Finished,"Drama,Romance,Supernatural",11741,7.23,Heyum (Story & Art),"May  16, 2013 to Aug  24, 2017"
+442,manhwa,Mosquito War,49,Finished,"Action,Sci-Fi",7474,7.22,"Jeong, Ji-Hoon (Story & Art)","Dec  31, 2017 to Oct  7, 2018"
+443,manhwa,Girl Queen,35,Finished,"Fantasy,Romance",8086,7.22,"Kim, Yeon-Joo (Story & Art)",2002 to  2006
+444,manhwa,Advent of Snow White of the Hell,NULL,Finished,Comedy,10375,7.22,"Hwang, Mi Ri (Story & Art)",2009 to 
+445,manhwa,Hannune Banhada! Season 2,NULL,Finished,"Comedy,Drama,Romance,Supernatural",20712,7.22,"Lee, Shi Young (Story & Art)",2007 to  2013
+446,manhwa,Welcome to Room #305!,171,Finished,"Comedy,Romance,Life",11200,7.22,Wanan (Story & Art),"Mar  3, 2008 to Sep  22, 2011"
+447,manhwa,My S-Class Hunters,NULL,Publishing,"Action,Adventure,Fantasy",2970,7.22,"Biwan (Art), Geunseo (Story)","Nov  15, 2021 to "
+448,manhwa,I'll Save This Damned Family!,NULL,Publishing,Fantasy,14813,7.22,"Munirang (Story), Nu (Art)","Apr  19, 2020 to "
+449,manhwa,The Esper's Game,NULL,Publishing,Action,6115,7.22,"Niccolo (Story), Plan A (Art)","Jun  6, 2022 to "
+450,manhwa,Returning With Absolutely Nothing,NULL,Publishing,"Action,Fantasy",6657,7.22,"Mongma (Story), Gangaji Master (Art)","Mar  27, 2022 to "
+451,manhwa,The Girl from Class,28,Finished,"Romance,Life",7039,7.22,"Park, Subong (Story & Art)","Dec  6, 2013"
+452,manhwa,"Do You Remember, Mogwa?",NULL,Finished,"Romance,Life",7714,7.21,"Han, Yu-Rang (Story & Art)",2008 to 
+453,manhwa,Pellua Iyagi,NULL,Publishing,Fantasy,14341,7.21,"Kim, Yeon-Joo (Story & Art)",2012 to 
+454,manhwa,Hell Is Other People,42,Finished,Horror,15217,7.21,"Kim, Yong-ki (Story & Art)","Mar  10, 2018 to Jan  9, 2019"
+455,manhwa,Rure,NULL,Publishing,"Adventure,Fantasy",12778,7.21,"Seo, Moon Da Mi (Story & Art)",2003 to 
+456,manhwa,Bring it on!,25,Finished,"Comedy,Romance",9746,7.21,"Baek, Hye-Kyung (Story & Art)",2002
+457,manhwa,"They, Too, Love",36,Finished,"Comedy,Drama",17527,7.21,"Seo, Moon Da Mi (Story & Art)",2002 to 
+458,manhwa,Do-Re-Mi-Fa-Sol-La-Si-Do,11,Publishing,"Comedy,Drama,Romance",13074,7.21,"Gui, Yeoni (Story), Lee, Kyung-ha (Art)",2003 to 
+459,manhwa,Nocturne,NULL,Publishing,"Drama,Romance,Life",10826,7.21,"Park, Eun Ah (Story & Art)",2008 to 
+460,manhwa,Villain to Kill,NULL,Publishing,Action,2916,7.21,"Fupin (Story), Eunji (Art)","Feb  15, 2021 to "
+461,manhwa,"Painful, but Desirable",73,Finished,Romance,24326,7.21,"Chae, Rangbi (Story), Kim, Injeong (Art)","Jun  30, 2020 to Oct  30, 2021"
+462,manhwa,Cassmire: The Loyal Sword,NULL,Publishing,Fantasy,12319,7.21,"Si-ion (Story), ilye (Art)","Apr  15, 2022 to "
+463,manhwa,Flawed Almighty,NULL,Publishing,"Drama,Supernatural",11499,7.2,"Kim, Carnby (Story), Song, Rae-hyeon (Art)","Jul  21, 2021 to "
+464,manhwa,A Talented Maid,NULL,Publishing,"Fantasy,Romance",8602,7.2,"Yuin (Story), Sanho (Art)","Jul  29, 2019 to "
+465,manhwa,The Great Wish,142,Finished,"Drama,Fantasy,Romance",14512,7.2,"Haneul Garigi (Story), Narae (Art)","Aug  31, 2019 to Nov  24, 2022"
+466,manhwa,The Player Who Can't Level Up,NULL,Publishing,"Action,Adventure,Fantasy",1697,7.2,"GaVinGe (Story), Park, Jeongjae (Art)","Feb  28, 2021 to "
+467,manhwa,Mookhyang: The Origin,47,Finished,"Action,Adventure,Fantasy",11885,7.2,"Jeon, Dong-jo (Story), Silva (Art)","Jan  31, 2021 to Aug  12, 2021"
+468,manhwa,Just for a Meowment,103,Finished,"Romance,Supernatural",15327,7.2,Kkanaria (Story & Art),"Oct  28, 2019 to Oct  18, 2021"
+469,manhwa,Lethal Romance,54,Finished,"Action,Comedy,Romance",21148,7.2,Grrr (Story & Art),"Apr  23, 2020 to Mar  29, 2021"
+470,manhwa,Hectopascal,NULL,Publishing,Action,10751,7.2,"Buffering (Story), Gil, Seonggeun (Art)","Aug  22, 2022 to "
+471,manhwa,The Knight and Her Emperor,NULL,Publishing,"Drama,Fantasy,Romance",5553,7.2,"Gyeoul (Art), Heyum (Art), An-gyeong Wonsung-i (Story)","Jan  26, 2019 to "
+472,manhwa,Yongbyeong Maluhan,103,Finished,"Action,Fantasy",7543,7.2,"Kim, Byung Jin (Story & Art)",2012 to  2016
+473,manhwa,Legend,NULL,Finished,"Comedy,Fantasy",8486,7.2,"Kara (Art), Woo, Soo Jung (Story)",2004 to  2008
+474,manhwa,Chocolat,73,Finished,"Comedy,Drama,Romance",8253,7.2,"Shin, Ji-Sang (Story & Art), Geo (Story & Art)",2002 to 
+475,manhwa,My Girl,27,Finished,"Drama,Romance",7379,7.19,"Paek, Jeong Won (Story & Art)",2005 to 
+476,manhwa,Pure,18,Finished,"Love,Drama",18980,7.19,"Ha, Sung-Hyun (Story & Art)",NULL
+477,manhwa,The Color of Earth,30,Finished,Unknown,19809,7.19,"Kim, Dong Hwa (Story & Art)",1996
+478,manhwa,Dear X,63,Finished,Drama,22791,7.19,Vanziun (Story & Art),"Jul  5, 2019 to Sep  11, 2020"
+479,manhwa,Best Teacher Baek,NULL,Publishing,"Action,Fantasy",8804,7.19,"Ganjjajang (Story), Oribori (Art)","Oct  20, 2021 to "
+480,manhwa,The Crow's Prince,NULL,Publishing,"Fantasy,Romance",6182,7.19,"Silvestar (Story), Glee (Art)","Feb  18, 2022 to "
+481,manhwa,I Played the Role of the Adopted Daughter Too Well,NULL,Publishing,"Fantasy,Romance",13518,7.19,"Dana (Story), Laqua (Art)","Feb  28, 2023 to "
+482,manhwa,Why Did Men Stop Wearing High Heels?,65,Finished,Drama,26193,7.19,"Kim, Jimmy (Story & Art)","Apr  21, 2015 to Jun  14, 2016"
+483,manhwa,Kisses x Kiss x Kisses,86,Finished,Love,22941,7.19,Ansi (Story & Art),"Oct  13, 2017 to Oct  5, 2019"
+484,manhwa,"Cherry Boy, That Girl",110,Finished,"Comedy,Romance,Life",3177,7.19,South Ant (Story & Art),"Jun  27, 2012 to Jan  14, 2015"
+485,manhwa,+99 Reinforced Wooden Stick,NULL,Publishing,"Action,Comedy,Fantasy",4131,7.18,"Hongsil (Story), Jipery (Art)","Mar  25, 2022 to "
+486,manhwa,Ghost Theater,51,Finished,"Drama,Supernatural",19328,7.18,LICO (Story & Art),"Aug  23, 2019 to Aug  7, 2020"
+487,manhwa,Caught By the Villain,NULL,Publishing,Fantasy,7025,7.18,"Cha, Sohee (Story), Chara (Art)","Aug  7, 2020 to "
+488,manhwa,My Boss's Special Request,NULL,Publishing,Romance,20839,7.18,"Park, Hanna (Story), Jina (Art)","Oct  31, 2021 to "
+489,manhwa,Tale of a Scribe Who Retires to the Countryside,NULL,Publishing,"Action,Adventure,Fantasy",10245,7.18,"Choi, Hyun-woo (Story), Gogi Sanjeok (Art), Team Pegasus (Art)","May  14, 2020 to "
+490,manhwa,Revenge on the Real One,NULL,Publishing,"Drama,Fantasy",13352,7.18,"Maru Gongbang (Art), Rina (Story)","Aug  9, 2022 to "
+491,manhwa,The Tyrant Wants to Be Good,NULL,Publishing,"Fantasy,Romance",12179,7.19,"Kakon (Art), Ramgeul (Story)","Oct  27, 2022 to "
+492,manhwa,Surviving the Game as a Barbarian,NULL,Publishing,"Action,Fantasy",13061,7.18,"Jeong, Yungang (Story), Nep (Art)","Apr  19, 2023 to "
+493,manhwa,Forest of Gray City,16,Finished,"Romance,Life",7845,7.18,"Uhm, Jung-Hyun (Story & Art)",Jan  2005 to Aug  2005
+494,manhwa,Replay,15,Finished,"Drama,Mystery,Romance,Supernatural",12434,7.18,"Ryu, Riang (Story & Art)",2002 to  2003
+495,manhwa,Laon,NULL,Finished,"Fantasy,Mystery,Supernatural",9632,7.18,"Hyun, You (Art)",NULL
+496,manhwa,Aisopos,130,Finished,"Adventure,Drama,Fantasy,Romance",11415,7.18,"Kim, Yangsoo (Story), Dogado (Art)","Jul  16, 2013 to Aug  23, 2016"
+497,manhwa,"Que Sera, Sera!",71,Finished,Romance,19396,7.18,"Gonarija (Story), Sujeong (Art)","Dec  6, 2015 to Mar  19, 2017"
+498,manhwa,My ID Is Gangnam Beauty,89,Finished,"Comedy,Drama,Romance",5562,7.18,"Ki, Maenggi (Story & Art)","Apr  8, 2016 to Dec  29, 2017"
+499,manhwa,Fight Class 3,NULL,Publishing,Action,8385,7.18,Ihak (Story & Art),"Aug  15, 2016 to "
+500,manhwa,"66,666 Years: Advent of the Dark Mage",NULL,Publishing,Fantasy,2740,7.17,"Pasa (Art), Hwabong (Story), Taru (Story)","Jun  29, 2021 to "
+501,manhwa,Flower and the Beast,120,Finished,"Fantasy,Romance",14141,7.17,"Solddam (Story), Jooreong (Art)","Sep  4, 2019 to Dec  22, 2021"
+502,manhwa,Tales of Greed,39,Finished,Suspense,18142,7.17,"Kim, Juin (Story), Park Tae-jun Manhwa Hoesa (Art)","Dec  24, 2020 to Aug  27, 2021"
+503,manhwa,Return of the SSS-Class Ranker,NULL,Publishing,"Action,Fantasy",4966,7.17,"Gald (Story), Rooty House (Art)","Aug  14, 2022 to "
+504,manhwa,Baek XX,NULL,Publishing,Action,20772,7.17,"Haetae (Story), Punch Kick (Art)","Jan  17, 2023 to "
+505,manhwa,Hush,NULL,Finished,"Comedy,Romance",16754,7.17,"Yoon, Ji Woon (Story & Art)",2001 to 
+506,manhwa,Click,33,Finished,"Comedy,Drama,Romance",8771,7.16,"Lee, Youngran (Story & Art)","Dec  13, 2006 to Apr  7, 2008"
+507,manhwa,Safe Again Today,14,Finished,"Comedy,Fantasy,Sci-Fi",16269,7.16,"Park, Suhlah (Story & Art)",NULL
+508,manhwa,Yongbi Bulpae Oejeon,NULL,Publishing,"Action,Adventure,Comedy",12644,7.16,"Mun, Jung-Hoo (Story & Art)",2006 to 
+509,manhwa,Nephilim John,42,Finished,"Action,Adventure,Fantasy",7368,7.16,"Ryu, Geum Chel (Story & Art)",Dec  2007 to May  2010
+510,manhwa,I Accept You,24,Finished,Romance,7279,7.16,"Kwon, Yeul Hee (Story & Art)",2003
+511,manhwa,100 Days in Europe,48,Finished,"Adventure,Drama,Romance",24694,7.16,"Kim, Jihyo (Story & Art)","Jun  3, 2013 to Jul  20, 2014"
+512,manhwa,Sandwich Girl,NULL,Finished,"Comedy,Romance",12618,7.16,"Han, Yu-Rang (Story & Art)",2005 to 
+513,manhwa,Sir Tiger's Table,NULL,Publishing,Comedy,16682,7.16,"Im, Hae Yeon (Story & Art)",2010 to 
+514,manhwa,Hanged Doll,70,Finished,"Action,Drama,Horror,Mystery",5725,7.16,Team Getname (Story & Art),"Oct  22, 2007 to Jul  10, 2008"
+515,manhwa,The Dragon Next Door,NULL,Finished,"Comedy,Fantasy,Life",13293,7.16,Cho (Story & Art),"Jul  2, 2013 to Feb  21, 2020"
+516,manhwa,Kill the Hero,NULL,Publishing,"Action,Adventure,Fantasy",2876,7.16,"D-Dart (Story), Manhwa Insaeng (Art)","Mar  26, 2020 to "
+517,manhwa,From a Knight to a Lady,NULL,Publishing,Fantasy,7345,7.16,"Sung, Hyerim (Story), Ink. (Story & Art)","Mar  9, 2021 to "
+518,manhwa,50 Tea Recipes from the Duchess,143,Finished,"Fantasy,Romance",5574,7.16,"Lee, Jiha (Story), Cho, Hyunyoung (Art)","Jul  12, 2019 to Apr  8, 2022"
+519,manhwa,Philia Rosé: The Prophecy of the Crown of Thorns,NULL,Publishing,"Drama,Fantasy",18392,7.16,"Kim, Youngji (Story), Ryuta (Art)","Nov  1, 2021 to "
+520,manhwa,Rotten,49,Finished,Suspense,19434,7.16,Digeut (Story & Art),"Jun  23, 2019 to May  24, 2020"
+521,manhwa,Zomgan,NULL,Publishing,Action,12067,7.16,"Ongoo (Story), Dai (Art)","Jun  14, 2022 to "
+522,manhwa,Poison Dragon: The Legend of an Asura,NULL,Publishing,"Action,Fantasy",4766,7.16,"Senior (Story), Yeonggwang (Art)","Feb  28, 2021 to "
+523,manhwa,Designated Bully,NULL,Publishing,Action,6036,7.16,Grimzo (Story & Art),"Jul  5, 2022 to "
+524,manhwa,The Red Knight Seeks No Reward,NULL,Publishing,"Fantasy,Romance",10992,7.15,"Rosiwon (Story), Song, Jaemin (Art)","Jun  12, 2021 to "
+525,manhwa,Gwisin Byeolgok,NULL,Finished,"Action,Comedy,Romance,Supernatural",8215,7.15,"Han, Hyun-Dong (Story & Art)",2008 to  2011
+526,manhwa,The Kidnapping of Minja Jo's Boyfriend,7,Finished,Romance,11145,7.15,"Lee, Sang-Eun (Story & Art), Yang, Yeo-Jin (Story & Art)",NULL
+527,manhwa,Hannune Banhada! Season 1,34,Finished,"Comedy,Drama,Romance,Supernatural",15447,7.15,"Lee, Shi Young (Story & Art)",2006
+528,manhwa,That Summer,156,Finished,"Love,Drama",20794,7.15,"Kim, Hyun (Story & Art)","Jul  7, 2015 to Feb  13, 2019"
+529,manhwa,Adelaide,86,Finished,"Comedy,Fantasy,Romance",3384,7.15,"Chae, Habin (Story), Lee, Suho (Art)","Dec  22, 2017 to Sep  30, 2019"
+530,manhwa,Subtle Disaster,NULL,Finished,Drama,13707,7.15,"Ahn, Sung Ho (Story & Art)","Aug  6, 2014 to Jun  10, 2015"
+531,manhwa,Chronicles of the Grim Peddler,31,Finished,"Fantasy,Romance",10036,7.14,"Lee, Jung Ah (Story & Art)",2005
+532,manhwa,Tiara,NULL,Publishing,Fantasy,9888,7.14,"Kara (Art), Lee, Yun-hee (Story)","Jan  28, 2009 to "
+533,manhwa,The Demonic Contract,NULL,Publishing,"Drama,Fantasy,Romance",6109,7.14,"Kim, Yunkyeong (Story), Yeoul (Art)","Jan  3, 2021 to "
+534,manhwa,"Your Majesty, Please Spare Me This Time",NULL,Publishing,"Fantasy,Romance",10069,7.14,"eclair (Story), Hayeon (Art)","Oct  16, 2020 to "
+535,manhwa,Ginger and the Cursed Prince,82,Finished,"Fantasy,Romance",7242,7.14,"Jwittong Saettong (Story), Koonac (Art)","Feb  3, 2020 to Dec  3, 2021"
+536,manhwa,Hanlim Gym,NULL,Publishing,Sports,15912,7.14,"Hyeseong (Story), Lee, Sukjae (Art)","May  25, 2020 to "
+537,manhwa,I Fell into a Reverse Harem Game!,NULL,Publishing,Fantasy,7988,7.14,"Inui (Story), Goya (Art)","Sep  5, 2020 to "
+538,manhwa,The Spark in Your Eyes,NULL,Publishing,"Drama,Fantasy",12602,7.14,Muro (Story & Art),"Jun  12, 2020 to "
+539,manhwa,Forbidden Kiss,NULL,Finished,Unknown,4879,7.14,"Han, Yu-Rang (Story & Art)",NULL
+540,manhwa,Carnivorous Princess Yegrinna,26,Finished,"Action,Comedy,Fantasy,Romance,Supernatural,Ecchi",2750,7.14,"Ha, Il-Kwon (Story), Kim, Ji Man (Art)",2010 to  2012
+541,manhwa,Nobody Knows,28,Finished,"Drama,Mystery,Romance,Supernatural",9366,7.14,"Lee, Hyeon-Sook (Story & Art)","Jul  25, 2011 to Dec  26, 2013"
+542,manhwa,3 Level Combination,25,Finished,"Drama,Romance,Sci-Fi",6033,7.14,"Ha, Il-Kwon (Story & Art)","Jul  4, 2008 to Dec  19, 2008"
+543,manhwa,Blood Rain,NULL,Finished,"Action,Drama",20911,7.13,"Baek, Seung Hoon (Art), Meen (Story)","Nov  1, 2014 to Apr  30, 2016"
+544,manhwa,"What's Wrong with You, Duke?",133,Finished,"Drama,Fantasy,Romance",5598,7.13,"Bandalbanji (Story), Eddie (Art)","Jan  31, 2019 to Apr  28, 2022"
+545,manhwa,A Villainess for the Tyrant,24,Finished,"Fantasy,Romance",6102,7.13,"Yu-iran (Story), Jagae (Art)","Jul  1, 2020 to Apr  22, 2022"
+546,manhwa,Escape Room,135,Finished,Horror,15260,7.13,SipPark (Story & Art),"Sep  9, 2019 to Jun  28, 2022"
+547,manhwa,Another Love,56,Finished,"Drama,Romance",17874,7.13,"Sparkler (Story), Lee, Soonki (Story), Ddogak (Art)","Dec  27, 2021 to Dec  5, 2022"
+548,manhwa,Twilight Poem,NULL,Publishing,"Drama,Fantasy,Romance",12121,7.13,"Midnight Studio (Art), Kim, Suji (Story)","Oct  21, 2021 to "
+549,manhwa,Interview with the Criminal,18,Finished,Love,23253,7.13,"Queensa (Story), Ppyong (Art)","Mar  13, 2018 to May  28, 2019"
+550,manhwa,The Falcon Princess,NULL,Publishing,Fantasy,12548,7.13,"Dongjeon (Art), Hanryui (Story)","May  14, 2021 to "
+551,manhwa,Here Comes the Silver Spoon!,NULL,Publishing,"Fantasy,Romance",14858,7.13,"Portofino (Story), Sin, Yuseong (Art)","Jun  14, 2021 to "
+552,manhwa,I Will Fall With the Emperor,NULL,Publishing,"Fantasy,Romance",17485,7.13,"Tenichi (Story), SORAJIMA Studio (Art)","Oct  12, 2022 to "
+553,manhwa,Cynical Orange,24,Finished,"Drama,Romance",9807,7.13,"Yoon, Ji Woon (Story & Art)",2002 to  2006
+554,manhwa,Very! Very! Sweet,40,Finished,"Comedy,Drama",17144,7.13,"Shin, Ji-Sang (Story & Art), Geo (Story & Art)",2006 to 
+555,manhwa,She Scares Me,NULL,Finished,"Action,Comedy,Romance",6779,7.13,"Hwang, Mi Ri (Story & Art)","Feb  16, 2009 to Apr  14, 2009"
+556,manhwa,Need a Girl!,66,Finished,"Comedy,Romance,Ecchi",3843,7.13,"Rue, Byung-min (Story), Park, Hyung-Jun (Art)",2006 to  2013
+557,manhwa,M.A.X.,21,Finished,"Comedy,Romance",6820,7.13,"Huh, Gook Hwa (Story), Park, Kyoung-Lan (Art)",2009 to 
+558,manhwa,A Fairytale for the Demon Lord,59,Finished,"Action,Adventure,Fantasy,Romance",1825,7.12,"Kim, Yong-Hwan (Story & Art)","Jan  28, 2011 to Jul  6, 2014"
+559,manhwa,Again My Life,142,Finished,Drama,15278,7.12,"Lee, Haenal (Story), Seon, Yong-min (Art)","Jun  12, 2019 to Sep  22, 2021"
+560,manhwa,Long After the Ending,60,Finished,Romance,15854,7.12,"Wonderdream (Story), Dorae (Art)","Nov  25, 2021 to Dec  11, 2022"
+561,manhwa,Regina Rena: To the Unforgiven,NULL,Publishing,"Action,Drama,Fantasy",8103,7.12,"Kim, Youngji (Story), Kwak, Nana (Story), Seol, Dong-won (Art)","Dec  17, 2021 to "
+562,manhwa,Never-Ending Darling,NULL,Publishing,"Sci-Fi,Suspense",23719,7.12,Woollee (Story & Art),"Jul  8, 2021 to "
+563,manhwa,I'm Not That Kind of Talent,NULL,Publishing,"Action,Fantasy",7615,7.12,"Denpi (Story), Meona (Art)","Nov  21, 2022 to "
+564,manhwa,The Villainess Is Shy in Receiving Affection,NULL,Publishing,Fantasy,18207,7.12,"Ryu, Heon (Story), Chira (Art)","Feb  16, 2023 to "
+565,manhwa,It's Love,42,Finished,"Comedy,Drama",9874,7.12,"Back, Sang-Eun (Story & Art)",NULL
+566,manhwa,Operation Liberate Men,NULL,Publishing,"Adventure,Drama,Fantasy",15543,7.12,"Lee, Mira (Story & Art)",2000 to 
+567,manhwa,Seol Hui,NULL,Publishing,"Drama,Romance,Supernatural",17969,7.12,"Kang, Kyungok (Story & Art)",2008 to 
+568,manhwa,Banya: The Explosive Delivery Man,38,Finished,"Action,Adventure,Comedy,Fantasy",4875,7.11,"Kim, Young-Oh (Story & Art)","Aug  17, 2004 to Mar  4, 2006"
+569,manhwa,unTouchable,140,Finished,Romance,10802,7.11,Massstar (Story & Art),"Feb  14, 2014 to Mar  3, 2017"
+570,manhwa,The Warrior Returns,NULL,Publishing,"Action,Fantasy",4839,7.11,"Narack (Story), Fungback (Art)","Jun  3, 2021 to "
+571,manhwa,Gimme That Pacifier!,NULL,Publishing,Fantasy,14160,7.11,"Ja, Eunhyang (Story), Heeng (Art)","Dec  31, 2021 to "
+572,manhwa,Dreamcide,202,Finished,"Action,Supernatural",25376,7.11,"Shinweol (Art), Hong, Jeonghoon (Story)","Jul  5, 2016 to Jul  28, 2020"
+573,manhwa,The Lady and the Beast,NULL,Publishing,"Fantasy,Romance",6270,7.1,"Maginot Seon (Story), Hongseul (Art)","Sep  9, 2020 to "
+574,manhwa,There Must Be Happy Endings,NULL,Publishing,Romance,11387,7.1,"Flada (Story), Jaerim (Art)","Apr  23, 2021 to "
+575,manhwa,The Build Up,NULL,Publishing,Sports,17004,7.1,911 (Story & Art),"Jul  28, 2020 to "
+576,manhwa,Memorize,NULL,Publishing,"Action,Adventure,Fantasy",4600,7.1,"Jeongha (Art), Ro, Yu-jin (Story)","Sep  25, 2020 to "
+577,manhwa,The Nuna at Our Office,65,Finished,Romance,12318,7.1,"Palmeiro (Story), Wasakbasak (Art)","Sep  28, 2020 to Nov  8, 2021"
+578,manhwa,How to Hide the Emperor's Child,NULL,Publishing,"Drama,Fantasy",7692,7.1,"Lee, Yeonseon (Story), Ssal (Art)","Feb  3, 2022 to "
+579,manhwa,Return of the Bloodthirsty Police,NULL,Publishing,Action,18095,7.1,"Lee, Yoon-Kyoon (Art), Lee, Jehwan (Story)","Apr  14, 2023 to "
+580,manhwa,Yeonmo,44,Finished,"Drama,Romance",14853,7.1,"Lee, So Young (Story & Art)",2011 to  2014
+581,manhwa,Roureville,24,Finished,"Adventure,Love,Comedy,Drama,Life,Supernatural",24781,7.1,"Hae, E. (Story & Art)","Sep  1, 2006 to Dec  18, 2009"
+582,manhwa,Normal City,121,Finished,"Drama,Romance,Sci-Fi",17087,7.1,"Kang, Kyungok (Story & Art)",NULL
+583,manhwa,I'm at End of Your Sight,NULL,Publishing,"Drama,Romance,Life",17207,7.1,"Seo, Moon Da Mi (Story & Art)",2008 to 
+584,manhwa,Trump!,NULL,Publishing,"Action,Comedy",9208,7.1,"Jung, Hyun-Joo (Story & Art)",2008 to 
+585,manhwa,Island,46,Finished,"Action,Horror,Supernatural",6022,7.09,"Yoon, In-Wan (Story), Yang, Kyung-il (Art)",1997 to  2001
+586,manhwa,Queens,26,Finished,"Comedy,Romance",19340,7.09,"Ha, Sung-Hyun (Story & Art)",2003 to  2004
+587,manhwa,The Girl's Winter,1,Finished,Drama,17262,7.09,"Shin-jeong-min, Ahn (Story & Art)",2007
+588,manhwa,Murim RPG Simulation,NULL,Publishing,"Action,Adventure,Fantasy",6860,7.09,"Cho, Hyung Geun (Story), Gwanghwi (Art)","Oct  6, 2021 to "
+589,manhwa,Her Bucket List,58,Finished,"Drama,Romance",21334,7.09,"Hwangyang (Story), Sop (Art)","Sep  20, 2019 to Sep  19, 2020"
+590,manhwa,The Legendary Spearman Returns,NULL,Publishing,"Action,Fantasy",3894,7.09,"Jo-seonsaengnim (Story), Studio Inus (Art)","Oct  2, 2021 to "
+591,manhwa,"Frozen Wolf, Fire Dragon",NULL,Publishing,"Fantasy,Romance",20421,7.09,"Chae, Yuhwa (Story), Gyeoulhae (Art)","Jan  19, 2023 to "
+592,manhwa,Legend of Tyr,66,Finished,"Action,Adventure,Comedy,Fantasy",5367,7.09,"Na, In-Soo (Story), Son, Chang-ho (Art)",2008 to  2010
+593,manhwa,Song of the Doll,15,Finished,"Drama,Fantasy,Mystery,Romance",7725,7.09,"Lee, Sun-Young (Story & Art)",2010 to  2012
+594,manhwa,Heart to Give,NULL,Finished,"Drama,Fantasy,Romance",17898,7.09,Wann (Story & Art),2013 to  2015
+595,manhwa,Kung Fu Komang,NULL,Finished,"Action,Adventure,Comedy",31961,7.09,"Park, In Seo (Story), Choi, Sang (Art)",1995 to  2006
+596,manhwa,Doridosim,79,Finished,Romance,16186,7.09,"Lee, Gpiee (Story & Art)","Oct  23, 2016 to Mar  4, 2018"
+597,manhwa,Back to School,45,Finished,Love,10417,7.09,Oryu (Story & Art),"Feb  14, 2019 to Jan  9, 2020"
+598,manhwa,1 Plus 1,52,Finished,Romance,14361,7.09,Soru (Story & Art),"May  4, 2019 to Apr  11, 2020"
+599,manhwa,She's Hopeless,103,Finished,Romance,7408,7.08,"Kang, Seok Woo (Story & Art)","Nov  11, 2020 to Mar  22, 2023"
+600,manhwa,God of Blackfield,NULL,Publishing,Action,3886,7.08,"Mujang (Story), Shin, Inseong (Art)","Feb  29, 2020 to "
+601,manhwa,The Worn and Torn Newbie,NULL,Publishing,"Action,Adventure,Fantasy",4590,7.08,"Lego Babasseo (Story), Boniee (Art)","Nov  30, 2020 to "
+602,manhwa,How to Become a Dragon,NULL,Publishing,Supernatural,19671,7.08,eon (Story & Art),"May  11, 2019 to "
+603,manhwa,Hive,243,Finished,"Action,Horror,Suspense",14572,7.08,"Kim, Kyusam (Story & Art)","Jan  20, 2014 to Oct  29, 2018"
+604,manhwa,The Savior's Time,59,Finished,"Drama,Mystery",25327,7.08,"Song, Geukjang (Story & Art)","Jul  9, 2020 to Aug  12, 2021"
+605,manhwa,Martial Artist Lee Gwak,100,Finished,"Action,Adventure,Fantasy",20877,7.08,"Ryu, Geum Chel (Story & Art), Woogack (Story)","Mar  13, 2021 to Oct  10, 2022"
+606,manhwa,Return of the War God,NULL,Publishing,"Action,Fantasy",8944,7.08,"Myosu (Story), Rough (Art)","May  31, 2022 to "
+607,manhwa,Love SOS,60,Finished,"Action,Drama,Romance",7331,7.08,"Hwang, Mi Ri (Story)",2001 to 
+608,manhwa,Coy - Crush On You,17,Finished,"Love,Comedy,Drama,Romance,Life",15112,7.08,"Lee, Kyung-ha (Story & Art)",2003 to 
+609,manhwa,Adventure and Trouble Diary,35,Finished,"Comedy,Drama,Fantasy,Romance,Sci-Fi",7555,7.08,"Yoo, Ha Jin (Story & Art)",2005 to 
+610,manhwa,Shi Hwa Mong,NULL,Finished,"Comedy,Drama,Romance",21751,7.08,"Lee, Jong-Eun (Story & Art)",2002 to  2012
+611,manhwa,I-Ren,28,Finished,"Comedy,Fantasy,Romance",10561,7.08,Aivan (Story & Art),2010 to  2013
+612,manhwa,The Phantom King,28,Finished,"Action,Drama,Horror,Mystery,Supernatural",5012,7.07,"Yoon, Jae Ho (Art), Im, Dal Young (Story)","Jul  15, 2009 to  2012"
+613,manhwa,Secret,NULL,Finished,Unknown,17614,7.07,"Han, Yu-Rang (Story & Art)",NULL
+614,manhwa,Hell Blade,36,Finished,"Drama,Mystery,Supernatural",6928,7.07,"Yoo, Jetae (Story & Art)",2009 to  2011
+615,manhwa,Her Tale of Shim Chong Side Stories,4,Finished,"Drama,Love",26257,7.07,"seri (Story), Biwan (Art)","Apr  16, 2019 to Jun  11, 2020"
+616,manhwa,The Villainess Lives Again,NULL,Publishing,"Drama,Fantasy,Romance",4723,7.07,"Han, Mint (Story), Peachberry (Art)","Jun  3, 2020 to "
+617,manhwa,Sixth Sense Kiss,97,Finished,Romance,9910,7.07,"Got-nyeo (Story), Jocobong (Art)","Apr  17, 2021 to Mar  17, 2023"
+618,manhwa,Tricked Into Becoming the Heroine's Stepmother,NULL,Publishing,"Fantasy,Romance",7625,7.07,"Mokgamgi (Story), Hariheen (Art)","Apr  14, 2021 to "
+619,manhwa,Garden Club Detective Squad,53,Finished,"Comedy,Mystery",22156,7.07,Oichyu (Story & Art),"Aug  27, 2019 to Aug  18, 2020"
+620,manhwa,My Unexpected Marriage,NULL,Publishing,"Drama,Fantasy,Romance",11025,7.07,"Ratshu (Story), Munmyeongin (Art)","Feb  24, 2022 to "
+621,manhwa,A Chance at Last,69,Finished,"Drama,Romance",18816,7.07,"Seo, Hye-eun (Story), Dindon (Art)","Sep  23, 2021 to Mar  12, 2023"
+622,manhwa,The Art of Reincarnation,NULL,Publishing,"Action,Fantasy",4398,7.07,"Kim, Pyeongbeom (Story), Lee, Sangkyung (Art)","Aug  10, 2022 to "
+623,manhwa,Talented Baby Squirrel,NULL,Publishing,"Fantasy,Romance",14072,7.07,"Guncheong Jundan (Story), Han, Soyoung (Art)","Sep  8, 2022 to "
+624,manhwa,Boarding House of Hunks,NULL,Finished,"Comedy,Romance",4514,7.07,"Hwang, Mi Ri (Story & Art)","Oct  30, 2006 to Jan  10, 2007"
+625,manhwa,Player Kill,NULL,Finished,Action,9864,7.07,"Lee, Jong-Kyu (Story), Park, Chul-Ho (Art)",NULL
+626,manhwa,Say Say Say,44,Finished,Comedy,10633,7.07,"Hwang, Mi Ri (Story & Art)",NULL
+627,manhwa,Ragnarok,110,On Hiatus,"Action,Adventure,Comedy",3239,7.06,"Lee, Myung-Jin (Story & Art)","Jun  12, 1995 to Jul  7, 2002"
+628,manhwa,Dorothy of Oz,NULL,Finished,"Comedy,Fantasy",19911,7.06,"Son, Hee-Joon (Story & Art)",2005 to 
+629,manhwa,The Snow Queen,18,Finished,"Drama,Romance",13124,7.06,Wann (Art),2006 to 
+630,manhwa,My Secretly Hot Husband,NULL,Publishing,"Fantasy,Romance",5432,7.06,"Jungyeon (Story), Harara (Art)","Aug  31, 2020 to "
+631,manhwa,Farmer of Spirits,NULL,Publishing,Fantasy,10347,7.06,"Susaegyeongjang (Story), Gusigi (Art)","Sep  30, 2020 to "
+632,manhwa,Side Characters Deserve Love Too,NULL,Publishing,"Comedy,Fantasy,Romance",13921,7.06,"Dandi (Story), Sodapie (Art)","Oct  12, 2021 to "
+633,manhwa,The Beloved Fake Saint,NULL,Publishing,Fantasy,16211,7.06,"Junnye (Story), Hwinangsie (Art)","Oct  21, 2022 to "
+634,manhwa,Severe Trauma Center: Golden Hour,147,Finished,Drama,23100,7.05,"Hansan, Leega (Story), Hong, Bichi-ra (Art)","Dec  11, 2019 to Nov  28, 2022"
+635,manhwa,Peppermint,21,Finished,"Comedy,Drama,Romance",15270,7.05,"Seo, Eun-Jin (Story & Art)",2001 to  2003
+636,manhwa,Utopia of Homosexuality,22,Finished,Romance,11316,7.05,"Lee, Sang-Eun (Story & Art)",2002 to  2003
+637,manhwa,Promise,NULL,Finished,"Comedy,Romance",18451,7.05,"Lee, Eun-Young (Story & Art)",2005
+638,manhwa,Talking About...,17,Finished,Romance,22178,7.05,Wann (Story & Art),2005 to  2007
+639,manhwa,Appetite,99,Finished,"Action,Supernatural",22545,7.05,Lero (Story & Art),"Oct  6, 2015 to Jul  2017"
+640,manhwa,1 Second,NULL,Publishing,"Action,Supernatural",18849,7.05,"Sini (Story), Gwang-un (Art)","Mar  14, 2019 to "
+641,manhwa,At Each Other's Throats,180,Finished,"Comedy,Life",14736,7.05,Sengae (Story & Art),"Sep  5, 2014 to May  5, 2017"
+642,manhwa,Deja-vu,6,Finished,"Drama,Fantasy,Romance,Sci-Fi",17657,7.04,"Yoon, In-Wan (Story), Yoon, Seung-Ki (Art), Yang, Kyung-il (Art), Lee, Vin (Art), Park, Sung-Woo (Art), Kim, Tae-Hyung (Art), Byung Jun, Byun (Art)",2004 to 
+643,manhwa,Soul to Seoul,18,Finished,"Drama,Romance",16276,7.04,"Kim, Jea-Eun (Story & Art)",2001 to 
+644,manhwa,Utopia's Avenger,NULL,Finished,"Action,Romance,Sci-Fi,Supernatural",15452,7.04,"Oh, Se Kwon (Story & Art)",2004 to  2009
+645,manhwa,So I Married the Anti-Fan,88,Finished,Romance,10353,7.04,"Jaerim (Art), Kim, Eunjeong (Story)","Dec  4, 2018 to Jun  16, 2020"
+646,manhwa,The Viridescent Tiara,NULL,Publishing,"Fantasy,Romance",8164,7.04,"Siya (Story), Binu (Art)","Oct  29, 2020 to "
+647,manhwa,The Antagonist's Pet,117,Finished,"Drama,Fantasy",11757,7.04,"Harnenn (Story), Seobo (Art)","Jul  15, 2019 to Jan  17, 2022"
+648,manhwa,The Overpowered Newbie,NULL,Publishing,"Action,Adventure,Fantasy",5816,7.04,"Itbaem (Art), Ildeung Bokgwon (Story)","Jun  17, 2022 to "
+649,manhwa,I'm the Tyrant's Secretary,NULL,Publishing,"Fantasy,Romance",10700,7.04,"Lee, Inhye (Story), Kio (Art)","May  20, 2021 to "
+650,manhwa,The Baby Divine Beast,NULL,Publishing,Fantasy,18392,7.04,"Yunbaekrim (Story), Leaf (Art)","Oct  6, 2022 to "
+651,manhwa,Nine Heavens Swordmaster,NULL,Publishing,"Action,Fantasy",6674,7.04,"Jo, Jinhaeng (Story), Saint Nine (Art)","Oct  31, 2022 to "
+652,manhwa,Deja-vu,6,Finished,"Drama,Fantasy,Romance,Sci-Fi",17657,7.04,"Yoon, In-Wan (Story), Yoon, Seung-Ki (Art), Yang, Kyung-il (Art), Lee, Vin (Art), Park, Sung-Woo (Art), Kim, Tae-Hyung (Art), Byung Jun, Byun (Art)",2004 to 
+653,manhwa,Soul to Seoul,18,Finished,"Drama,Romance",16276,7.04,"Kim, Jea-Eun (Story & Art)",2001 to 
+654,manhwa,Utopia's Avenger,NULL,Finished,"Action,Romance,Sci-Fi,Supernatural",15452,7.04,"Oh, Se Kwon (Story & Art)",2004 to  2009
+655,manhwa,Sweet Bitter Love,NULL,Finished,Romance,14914,7.03,"Han, Yu-Rang (Story & Art)",NULL
+656,manhwa,Inner Beauty,44,Finished,"Love,Supernatural",21135,7.03,Jeollae Donghwa (Story & Art),"Nov  1, 2018 to Jan  30, 2020"
+657,manhwa,One Fine Day,28,Finished,"Comedy,Fantasy,Life",20214,7.03,Sirial (Story & Art),2007 to  2008
+658,manhwa,Ruby Doll,16,Finished,Romance,16782,7.03,"Choi, Kyung-ah (Story & Art)","Sep  15, 2006 to Jan  30, 2008"
+659,manhwa,The Lone Necromancer,NULL,Publishing,"Action,Fantasy",3679,7.03,"Jijeomjang (Story), Kim, Dong-jun (Art)","Sep  13, 2021 to "
+660,manhwa,Lady Evony,NULL,Publishing,"Drama,Fantasy",11945,7.03,"Jaya (Story), Neida (Art)","Sep  30, 2019 to "
+661,manhwa,The Lady with a Mask,55,Finished,Romance,17065,7.03,"Min (Story), Merin (Art)","May  17, 2018 to May  17, 2019"
+662,manhwa,No Outtakes,79,Finished,"Comedy,Romance",25147,7.03,"Go, Sunyoung (Story & Art)","Jun  4, 2021 to Oct  31, 2022"
+663,manhwa,King of the Mound,NULL,Publishing,"Sports,Supernatural",18967,7.03,"D-Dart (Story), Meoyeon (Art), Togi (Art)","Jul  27, 2022 to "
+664,manhwa,Tyrant of the Tower Defense Game,NULL,Publishing,"Action,Fantasy",9404,7.03,"Ryueun, Garam (Story), Gyong (Art)","Aug  5, 2022 to "
+665,manhwa,Seducing the Monster Duke,NULL,Publishing,"Fantasy,Romance",16403,7.03,"Ellianyang (Story), Capu (Art)","Aug  26, 2022 to "
+666,manhwa,I Failed to Divorce My Husband,NULL,Publishing,"Fantasy,Romance",22386,7.03,"Yulji (Story), Sunjinmugu (Art)","Sep  12, 2022 to "
+667,manhwa,A Summer Night's Dream,86,Finished,"Romance,Supernatural",18560,7.02,"Kim, Subak (Story), Kan (Art)","Dec  1, 2020 to Aug  21, 2022"
+668,manhwa,Reincarnated as an Unruly Heir,NULL,Publishing,Action,7544,7.02,"Dae, Eunho (Story), Jeon, Madu (Art)","Jul  22, 2021 to "
+669,manhwa,The Wicked Little Princess,NULL,Publishing,Fantasy,11541,7.02,"Cha, Sohee (Story), Hwasom (Art), Chouchou (Art)","Jun  17, 2021 to "
+670,manhwa,Call Me the Devil,NULL,Publishing,"Romance,Supernatural",19929,7.02,"Ante (Story), Sseona (Art)","Apr  21, 2022 to "
+671,manhwa,Helmut,NULL,Publishing,"Action,Fantasy",5919,7.02,"Honyo (Story), Chae3 (Art)","Aug  31, 2022 to "
+672,manhwa,The Part-Time Land of the Gods,NULL,Publishing,"Action,Fantasy",18126,7.02,"God Ttingjak (Story), Deany (Art), Mir (Art)","Feb  9, 2023 to "
+673,manhwa,Vampire of the East,113,Finished,"Mystery,Romance,Supernatural",14811,7.02,"Han, Seung-Hee (Art), Jo, Joo-Hee (Story)","Feb  2012 to Jun  15, 2018"
+674,manhwa,Ways of the Jogang Jicheo,53,Finished,"Comedy,Romance",13061,7.02,"Han, Yu-Rang (Story & Art)","Apr  1, 2009 to Jun  10, 2009"
+675,manhwa,GIRL,NULL,Finished,"Comedy,Fantasy,Romance",13564,7.02,"Hwang, Mi Ri (Story & Art)",2010 to 
+676,manhwa,Aegis,NULL,Finished,"Action,Love,Drama,Sci-Fi",14434,7.02,"Yoo, Jinha (Story & Art)",2002 to  2003
+677,manhwa,Nabi,NULL,Publishing,"Action,Drama,Romance",14375,7.02,"Kim, Yeon-Joo (Story & Art)","Oct  25, 2006 to "
+678,manhwa,The Beloved Little Princess,NULL,Publishing,"Comedy,Fantasy",4515,7.01,"Saha (Story), Dol-dae (Art)","Mar  26, 2020 to "
+679,manhwa,Witch Hunt,88,Finished,"Fantasy,Supernatural",7597,7.01,"Park, So (Story & Art)","May  10, 2014 to Jan  9, 2016"
+680,manhwa,The Taming of the Tyrant,NULL,Publishing,"Drama,Fantasy",6571,7.01,"Yusoy (Story), Melting (Art)","Jan  16, 2021 to "
+681,manhwa,Two Steps Away,50,Finished,Romance,24576,7.01,"Kim, Byung-gwan (Art), Lee, Eunjung (Story)","Jun  15, 2021 to Apr  5, 2022"
+682,manhwa,"My Daughter, the Music Prodigy",NULL,Publishing,Drama,18330,7.01,"Lee, Hansung (Story), Harvey (Art)","Nov  30, 2021 to "
+683,manhwa,He Can't Be This Dumb!,91,Finished,"Comedy,Romance",16976,7.01,"Han, Jihye (Story), Pop (Art)","Sep  17, 2021 to Feb  17, 2023"
+684,manhwa,The Slumbering Ranker,NULL,Publishing,"Action,Fantasy",6518,7.01,"Warluck (Story), Cheon, Jinhui (Art)","Mar  17, 2022 to "
+685,manhwa,The Country Is Saved!,NULL,Finished,"Adventure,Fantasy,Romance,Sci-Fi",19347,7.01,"Lee, Sang-Eun (Story & Art)",2011 to  2013
+686,manhwa,My Love Tiger,NULL,Publishing,"Comedy,Fantasy,Romance,Supernatural,Ecchi",4427,7.01,"Yoon, Jae Ho (Art), Carnel (Story)","Jul  5, 2014 to "
+687,manhwa,XS Hybrid,35,Finished,"Action,Adventure,Sci-Fi",9272,7.01,"Song, Ji-Hyung (Story & Art)",2003 to 
+688,manhwa,Redrum 327,18,Finished,Horror,8852,7.01,"Ko, Ya Seong (Story & Art)",2003 to  2004
+689,manhwa,Ugly Duckling to Swan,NULL,Finished,"Comedy,Romance",5790,7.01,"Hwang, Mi Ri (Story & Art)",NULL
+690,manhwa,Lover Boy,NULL,Finished,Romance,15216,7.01,"Han, Yu-Rang (Story & Art)","Jun  9, 2010 to Jul  30, 2010"
+691,manhwa,Lost In London,37,Finished,"Romance,Supernatural",10104,7.01,"Lee, Eun-Young (Story & Art)",2011 to 
+692,manhwa,Ties of Compassion,121,Finished,"Comedy,Drama,Romance,Life",14658,7.01,Jaehwalyong (Story & Art),"Feb  5, 2009 to Sep  19, 2011"
+693,manhwa,Fallen Angels,NULL,Finished,"Comedy,Drama,Romance",11766,7,"Han, Yu-Rang (Story & Art)",NULL
+694,manhwa,Nice Guy Syndrome,NULL,Finished,"Comedy,Romance",13198,7,"Hwang, Mi Ri (Story & Art)",2011 to 
+695,manhwa,The Dark Lord's Confession,NULL,Publishing,"Adventure,Fantasy",17594,7,Tapseung (Story & Art),"Apr  16, 2022 to "
+696,manhwa,Is This Hero for Real?,NULL,Publishing,"Action,Fantasy",4335,7,"Parnar (Story), Ppayong (Art)","Feb  19, 2022 to "
+697,manhwa,The Crimson Lady,NULL,Publishing,"Fantasy,Suspense",9668,7,"Cha, Seojin (Story), Taegong (Art)","Aug  7, 2022 to "
+698,manhwa,I Stole the Number One Ranker's Soul,NULL,Publishing,"Action,Fantasy",15347,7,"Sulpurenamu (Story), Ijeong (Art)","Sep  9, 2022 to "
+699,manhwa,Lips Upon a Sword's Edge,NULL,Publishing,"Fantasy,Romance",15761,7,"Yunsul (Story), Mwagwa (Art)","Oct  8, 2022 to "
+700,manhwa,Poison-Eating Healer,NULL,Publishing,"Action,Fantasy",9759,7,"Park, Kyungwon (Story), Team Pove (Art)","Dec  11, 2022 to "
+701,manhwa,Boundless Ascension,NULL,Publishing,"Action,Fantasy",6111,7,"Seonun (Story), 2 Sarang (Art)","Dec  17, 2022 to "
+702,manhwa,Demon King of the Royal Class,NULL,Publishing,"Action,Fantasy",9455,7,"Geuljaengi S (Story), Ronopu (Art)","Jan  27, 2023 to "
+703,manhwa,Drug-Eating Genius Mage,NULL,Publishing,"Action,Adventure,Fantasy",10663,7,"Geulgeunyuk (Story), Choegom (Art)","Feb  28, 2023 to "
+704,manhwa,The Constellations Are My Disciples,NULL,Publishing,"Action,Fantasy",12665,7,"Bangguseok Kim-ssi (Story), Studio Inus (Art)","Mar  2, 2023 to "
+705,manhwa,Beautiful Fascination is Better Than Love,15,Finished,"Drama,Romance",7545,7,"Lee, Hyeon-Sook (Story & Art)",2004 to 
+706,manhwa,The Antique Gift Shop,16,Finished,"Drama,Fantasy",21150,7,"Lee, Eun (Story)",2004
+707,manhwa,Ping,30,Finished,"Action,Ecchi",3950,7,"Lee, Jong-Kyu (Story), Kim, Youn-Kyung (Art)",2007
+708,manhwa,Gwi,34,Finished,"Action,Adventure",6147,7,"Kim, Young-Oh (Art), Ghun, Oh Rhe Bar (Story)",2006 to  2008
+709,manhwa,Become Habituated to Kiss,75,Finished,"Comedy,Romance",5596,7,"Hwang, Mi Ri (Story & Art)",2008 to 
+710,manhwa,Lover Puzzle,NULL,Finished,"Comedy,Drama,Romance",17343,6.99,"Hwang, Mi Ri (Story & Art)","Feb  19, 2010 to Apr  2, 2010"
+711,manhwa,Dark Mage,21,Finished,"Action,Fantasy",8858,6.99,"Kang, Jae-Sin (Art), Kim, Jung Ryul (Story)",2005 to 
+712,manhwa,Trash Belongs in the Trash Can!,NULL,Publishing,Romance,12307,6.99,EDDiERiNG (Story & Art),"Feb  15, 2022 to "
+713,manhwa,The Heiress's Double Life,NULL,Publishing,"Fantasy,Romance",12623,6.99,"Go, Eunchae (Story), Ssangpil (Art)","Oct  14, 2021 to "
+714,manhwa,NOW,NULL,Finished,"Action,Adventure",16956,6.99,"Park, Sung-Woo (Story & Art)",2001 to  2006
+715,manhwa,The Poet Who Buys Words,3,Finished,Drama,9273,6.99,"Uhm, Jung-Hyun (Story & Art)",2006
+716,manhwa,Wa!,NULL,Finished,"Comedy,Romance",20532,6.99,"Yoo, Ha Jin (Story & Art)",2002 to  2003
+717,manhwa,HWA,7,Finished,"Love,Drama,Romance",13973,6.99,"Lee, Young Hui (Story & Art)",NULL
+718,manhwa,SM Hunter,NULL,Finished,"Action,Fantasy,Romance,Sci-Fi",19496,6.99,"Na, You (Story & Art)",2005 to 
+719,manhwa,Delinquent Lesson,NULL,Finished,"Comedy,Romance",8270,6.99,"Yeon, Doo (Story), Kim, Ye Vin (Art)",2006 to  2007
+720,manhwa,All of You in the World,NULL,Finished,"Comedy,Romance",15332,6.99,"Hwang, Mi Ri (Story & Art)",Sep  2009 to Nov  2009
+721,manhwa,Unbalance x3,NULL,Publishing,"Drama,Romance,Ecchi",2988,6.98,"Im, Dal Young (Story), Lee, Soo Hyun (Art)","Sep  1, 2015 to "
+722,manhwa,Nan Eomma Nun Appa,NULL,Finished,Romance,9927,6.98,"Hwang, Mi Ri (Story & Art)","Jan  28, 2011 to Jun  3, 2011"
+723,manhwa,Taming the Cat Master,45,Finished,Unknown,15859,6.98,"Han, Yu-Rang (Story & Art)",2010 to 
+724,manhwa,Dallae,25,Finished,"Love,Supernatural",28291,6.98,Choonae (Story & Art),"Apr  3, 2017 to Jun  10, 2018"
+725,manhwa,Peach Love,65,Finished,Love,14611,6.98,Fujoking (Story & Art),"Oct  21, 2015 to Apr  2, 2018"
+726,manhwa,Hissing,NULL,Finished,Romance,17583,6.98,"Kang, Eun Young (Story & Art)","2003 to Jul  15, 2005"
+727,manhwa,Jack Frost,95,Finished,"Action,Comedy,Horror,Supernatural",3005,6.98,"Go, Jin-Ho (Story & Art)",2005 to  2014
+728,manhwa,The Descendant of the Dynasty,NULL,Finished,"Action,Comedy,Drama,Fantasy,Mystery,Romance",18919,6.98,"Hwang, Mi Ri (Story & Art)",2001 to 
+729,manhwa,"Oh, Chunja Chunja! High School Bullying",NULL,Finished,Comedy,16837,6.98,"Hwang, Mi Ri (Story & Art)",NULL
+730,manhwa,The Divine Twilight's Return,NULL,Publishing,"Action,Adventure,Fantasy",4655,6.98,"Yang, Kyung-il (Art), Sadoyeon (Story)","Nov  29, 2021 to "
+731,manhwa,The Tutorial Is Too Tough!,NULL,Publishing,"Action,Fantasy",4014,6.98,"Gandara (Story), Imae, Daiki (Art)","Jan  31, 2021 to "
+732,manhwa,Empress of Another World,130,Finished,"Drama,Fantasy,Romance",10205,6.98,"Lee, Young-You (Art), Lim, Seorim (Story)","Jul  31, 2016 to Apr  29, 2019"
+733,manhwa,Tacit,NULL,Publishing,"Action,Adventure,Sci-Fi",17184,6.98,"Kim, Dazzi (Story & Art)","Feb  22, 2021 to "
+734,manhwa,My Fair Footman,102,Finished,Romance,14909,6.98,"Lee, Jaa (Story), Ggory (Art)","Dec  11, 2018 to Jan  27, 2021"
+735,manhwa,Crush of a Lifetime,90,Finished,"Comedy,Romance",17064,6.98,"Jeong, Halim (Story), Kim, Yeonwoo (Art)","Nov  6, 2019 to Jun  30, 2021"
+736,manhwa,A Dance of Swords in the Night,NULL,Publishing,"Action,Fantasy",8142,6.98,"Yu, Jinsung (Story), Songmin (Art)","Jun  7, 2022 to "
+737,manhwa,Knight Under My Heart,41,Finished,"Action,Fantasy",14465,6.98,"Rasne (Story), Han, Sungwoo (Art)","Feb  18, 2022 to Nov  29, 2022"
+738,manhwa,My Farm by the Palace,NULL,Publishing,"Fantasy,Romance",19446,6.98,"Jungyeon (Story), Ollcha (Art)","Apr  30, 2022 to "
+739,manhwa,Auto Hunting With My Clones,NULL,Publishing,"Action,Fantasy",9972,6.98,"Mongsik (Story), Opal (Art)","Sep  3, 2022 to "
+740,manhwa,The Breaker: Eternal Force,NULL,Publishing,Action,4772,6.97,"Park, Jin-Hwan (Art), Jeon, Geuk-jin (Story)","May  5, 2022 to "
+741,manhwa,I Am the Sorcerer King,143,Finished,"Action,Adventure,Fantasy",4302,6.97,"Decaspell (Story), Miro (Art)","May  31, 2019 to Jun  5, 2021"
+742,manhwa,The Duke's Bored Daughter Is My Master,NULL,Publishing,"Fantasy,Romance",10270,6.97,"Royal B (Story), Gaeul (Art)","Feb  28, 2022 to "
+743,manhwa,Epilogue,23,Finished,Suspense,31337,6.97,"Jo, Seok (Story & Art)","Aug  10, 2020 to Dec  21, 2021"
+744,manhwa,My Dad Is Too Strong,NULL,Publishing,"Action,Comedy,Fantasy",6593,6.97,"Gaebyeok S (Story), Modain (Art)","Jul  28, 2020 to "
+745,manhwa,Surviving as the Illegitimate Princess,NULL,Publishing,Fantasy,13545,6.97,"Seo, Gyeol (Story & Art)","Jul  7, 2022 to "
+746,manhwa,Chronicles of the Demon Faction,NULL,Publishing,"Action,Fantasy",17068,6.97,"codezero (Story), Molli (Art)","Mar  24, 2023 to "
+747,manhwa,For the Sake of Both,24,Finished,"Comedy,Drama,Romance",17353,6.97,"Hwang, Mi Ri (Story & Art)","Oct  28, 2009 to "
+748,manhwa,Under the Glass Moon,18,Finished,"Action,Supernatural",15161,6.97,"Ko, Ya Seong (Story & Art)",2001 to 
+749,manhwa,Land of Silver Rain,29,Finished,"Fantasy,Romance",11743,6.97,"Lee, Mira (Story & Art)",2004 to  2007
+750,manhwa,A Wolf Warning,NULL,Finished,"Comedy,Romance,Life",16126,6.97,"Kim, Yun-Jung (Story & Art)",2006 to  2008
+751,manhwa,La Mosca,46,Finished,"Action,Mystery,Sci-Fi,Supernatural",7898,6.97,"Kang, Hyung Kyu (Story & Art)","Jun  15, 2008 to Jun  30, 2010"
+752,manhwa,How to Hate Mate,26,Finished,Love,25657,6.97,Reck (Story & Art),"Dec  18, 2016 to Dec  10, 2018"
+753,manhwa,Meow Man,25,Finished,"Comedy,Romance,Supernatural",15684,6.97,Olso (Story & Art),"Mar  16, 2018 to Feb  11, 2021"
+754,manhwa,A Royal Princess with Black Hair,107,Finished,"Comedy,Fantasy,Romance",8435,6.97,"Ellianyang (Story), Pang-e (Art)","Nov  15, 2019 to Jun  2, 2023"
+755,manhwa,Mango's Bone,60,Finished,"Drama,Romance",26633,6.96,"Gold Kiwi Sae (Story & Art), Neokbujadeul (Art)","Apr  24, 2016 to Aug  20, 2017"
+756,manhwa,The Greatest Wolf of My Life,89,Finished,"Romance,Supernatural",26775,6.96,"Kim, Byung-gwan (Art), Ran (Story)","Dec  12, 2017 to Jun  25, 2019"
+757,manhwa,The Max Level Hero Strikes Back,NULL,Publishing,"Action,Adventure,Fantasy",2044,6.96,"Angmakkori (Story), Yudo (Art)","Oct  26, 2020 to "
+758,manhwa,Reawakened Man,175,Finished,"Action,Supernatural",11675,6.96,"Chae, Yongtaek (Story), Kim, Jaehan (Art)","May  6, 2016 to Dec  6, 2019"
+759,manhwa,Queen in the Shadows,60,Finished,"Drama,Fantasy",8597,6.96,"Hayul (Story), Kinlip (Art)","Aug  16, 2020 to Jun  28, 2021"
+760,manhwa,The Wolf & Red Riding Hood,63,Finished,"Comedy,Romance,Supernatural",17695,6.96,Xuann (Story & Art),"Aug  31, 2018 to Oct  11, 2019"
+761,manhwa,My Younger Brother's Friend,87,Finished,Romance,16645,6.96,Nimni (Story & Art),"Mar  19, 2021 to Oct  15, 2022"
+762,manhwa,Mystic Musketeer,NULL,Publishing,"Action,Fantasy",5216,6.96,"Lee, Subaek (Story), Glpi (Art)","Feb  10, 2021 to "
+763,manhwa,Book Eater,NULL,Publishing,"Action,Adventure,Fantasy",6899,6.96,"Mackenro (Story), Crew Eastwood (Art)","Jul  23, 2021 to "
+764,manhwa,The Second Coming of Gluttony,NULL,Publishing,"Action,Adventure,Fantasy",4520,6.96,"Ro, Yu-jin (Story), Ahn, Jonghyuk (Art)","Dec  4, 2019 to "
+765,manhwa,I'm All Out of Health!,NULL,Publishing,"Fantasy,Romance",12552,6.96,"Lee, Haron (Story), Vanilla (Art)","Jul  31, 2021 to "
+766,manhwa,The Perfect Plan for a Fairy-Tale Ending,NULL,Publishing,"Fantasy,Romance",12098,6.96,"Yangyang (Art), Peach Pie (Story)","Mar  19, 2022 to "
+767,manhwa,The Archvillain's Daughter-In-Law,NULL,Publishing,Fantasy,13118,6.96,"Basak (Art), Yunajin (Story)","Jan  31, 2022 to "
+768,manhwa,The Perfect Hybrid,NULL,Publishing,"Action,Fantasy",8318,6.96,"Soul Pung (Story), Clover (Art)","Aug  3, 2022 to "
+769,manhwa,Doctor Player,NULL,Publishing,"Action,Adventure,Fantasy",10546,6.96,"Yuin (Story), Rikodaram (Art)","Dec  2, 2022 to "
+770,manhwa,The Little Brother Is the Academy's Hotshot,NULL,Publishing,"Action,Fantasy",20679,6.96,"Bae, Hanul (Story), jd (Art)","Feb  24, 2023 to "
+771,manhwa,The Knight King Who Returned with a God,NULL,Publishing,"Action,Fantasy",12175,6.96,"Saram Sallyeo. (Story), Jeoncheon Huma Geomsa (Art)","May  22, 2023 to "
+772,manhwa,PhD: Phantasy Degree,106,Finished,"Action,Adventure,Comedy,Fantasy",11328,6.96,"Son, Hee-Joon (Story & Art)","Jun  19, 2001 to Dec  2004"
+773,manhwa,Why Do You Love Me?,NULL,Publishing,"Drama,Romance",15273,6.96,Wann (Story & Art),2003 to 
+774,manhwa,The Missing White Dragon,5,Finished,"Comedy,Drama",20317,6.96,"Park, Young Ha (Story & Art)","Jan  15, 2005"
+775,manhwa,Unplugged Boy,17,Finished,"Comedy,Romance",24311,6.96,"Chon, Kye Young (Story & Art)",NULL
+776,manhwa,A Love in 100 Days,NULL,Finished,Comedy,15737,6.96,"Hwang, Mi Ri (Story & Art)",2008
+777,manhwa,The Bear-Like Fox Meets The Wolf,NULL,Finished,Unknown,14398,6.96,"Han, Yu-Rang (Story & Art)",NULL
+778,manhwa,Sambong Barber Shop,37,Finished,"Action,Drama,Romance,Life",10841,6.96,"Ha, Il-Kwon (Story & Art)",2008
+779,manhwa,Never Cry,NULL,Finished,"Comedy,Romance",18431,6.95,"Han, Yu-Rang (Story & Art)",NULL
+780,manhwa,Mary Stayed Out All Night,38,Finished,"Comedy,Romance",15647,6.95,"Won, Soo-yeon (Story & Art)","Feb  5, 2009 to  2012"
+781,manhwa,Charlotte and Her 5 Disciples,NULL,Publishing,"Fantasy,Romance",5595,6.95,YongYong (Story & Art),"Oct  3, 2019 to "
+782,manhwa,X & Ash,NULL,Publishing,"Action,Fantasy",18966,6.95,"Lee, Gwang-Su (Art), Kim, Sehoon (Story)","Oct  29, 2021 to "
+783,manhwa,The Lady's Butler,95,Finished,"Fantasy,Romance",14315,6.95,"Ha, Yaeji (Story), Cheomji (Art)","Jul  18, 2020 to May  23, 2022"
+784,manhwa,I Woke Up as the Villain,NULL,Publishing,"Action,Fantasy",8307,6.95,"Soo, Yuhyeon (Story), Arlg (Art)","Sep  18, 2020 to "
+785,manhwa,My Ray of Hope,NULL,Publishing,"Fantasy,Romance",17113,6.95,"Yoon, Hawol (Story), TK (Art)","Dec  25, 2021 to "
+786,manhwa,The Hero Returns,NULL,Publishing,"Action,Fantasy",3907,6.95,"Heuk Ain (Story), Yungun (Art)","Mar  3, 2022 to "
+787,manhwa,The Doctor Is Out,NULL,Publishing,"Fantasy,Romance",20268,6.95,"Yunajin (Story), Sugle (Art)","Aug  31, 2022 to "
+788,manhwa,Happy if You Died,61,Finished,"Comedy,Drama,Romance,Supernatural",14143,6.95,Gold Kiwi Sae (Story & Art),"Apr  7, 2015 to Oct  18, 2016"
+789,manhwa,Moritat,53,Finished,"Love,Suspense",18053,6.95,"Lee, Sunee (Story), Seokyeong (Art)","Oct  4, 2015 to Mar  14, 2017"
+790,manhwa,Faeries' Landing,NULL,Finished,"Action,Adventure,Comedy,Drama,Fantasy,Romance,Supernatural",8640,6.95,"Hyun, You (Story & Art)",1999 to 
+791,manhwa,Metal Heart,NULL,Finished,"Comedy,Fantasy,Romance,Sci-Fi,Ecchi",8352,6.95,"Yoon, Jae Ho (Story & Art)",2004 to  2009
+792,manhwa,50 Rules for Teenagers,NULL,Finished,"Drama,Romance",13119,6.95,"Na, Yeri (Story & Art)",NULL
+793,manhwa,Shin Gumiho,77,Finished,"Comedy,Fantasy,Supernatural",24400,6.95,"Han, Hyun-Dong (Story & Art)",2002 to 
+794,manhwa,Confessing Truthfully,34,Finished,Romance,18704,6.95,"Ryu, Riang (Story & Art)",NULL
+795,manhwa,Gangster Hero,NULL,Finished,Comedy,14032,6.95,"Hwang, Mi Ri (Story & Art)",NULL
+796,manhwa,To Find My Brother Ara,47,Finished,Romance,15239,6.95,"Hwang, Mi Ri (Story & Art)",NULL
+797,manhwa,Personalized Princess,NULL,Finished,"Comedy,Romance",17798,6.95,"Hwang, Mi Ri (Story & Art)",NULL
+798,manhwa,Thirsty Thirty,NULL,Finished,"Romance,Life",24940,6.95,"Jung, Eun Soo (Story & Art)","Dec  1, 2013 to May  1, 2018"
+799,manhwa,"I'll Raise You Well in This Life, Your Majesty!",NULL,Publishing,"Drama,Fantasy",10952,6.94,"Jaha (Story), Steak (Art)","Dec  13, 2021 to "
+800,manhwa,Wife After Love,87,Finished,Romance,21265,6.94,"Lee, Bona (Story), Jeong, Dageum (Art)","Oct  3, 2020 to Aug  25, 2021"
+801,manhwa,Can We Become Family?,NULL,Publishing,"Drama,Fantasy",13358,6.94,"Hanirim (Story), Matcha Vienna (Art)","Sep  17, 2021 to "
+802,manhwa,Jack Be Invincible,NULL,Publishing,"Action,Fantasy",5485,6.94,"Neogulhi (Story), K (Art)","Mar  12, 2022 to "
+803,manhwa,World's Strongest Troll,NULL,Publishing,"Action,Fantasy",11402,6.94,"Gunmandu Meokja (Story), Yato (Art)","Oct  26, 2022 to "
+804,manhwa,Chronicles of the Cursed Sword,163,Finished,"Action,Adventure,Drama,Fantasy",7667,6.94,"Yeo, Beop-Ryong (Story), Park, Hui-Jin (Art)",1999 to  2009
+805,manhwa,Honey Mustard,23,Finished,"Comedy,Romance",16737,6.94,"Yeo, Ho Kyoung (Story & Art)",2003 to  2004
+806,manhwa,Hoosamguk High,NULL,Finished,Romance,19274,6.94,"Hwang, Mi Ri (Story & Art)",NULL
+807,manhwa,Yaya,38,Finished,"Drama,Romance",14500,6.94,"Kang, Eun Young (Story & Art)",2000
+808,manhwa,Sunaebo,26,Finished,"Drama,Romance,Life",17542,6.94,"Park, Eun Ah (Story), Yoon, Ji Woon (Story), Rhim, Ju-Yeon (Story & Art), Seo, Moon Da Mi (Story), Kim, Yeong-Eun (Story), Lee, Shi Young (Story), Kim, Se-Young (Story & Art), Lee, Hyeon-Sook (Story), Kwon, Gyo-jung (Story & Art)",2005 to 
+809,manhwa,Her True Color,NULL,Finished,Romance,22528,6.93,"Han, Yu-Rang (Story & Art)",NULL
+810,manhwa,To Love Our Enemies,NULL,Finished,Romance,20354,6.93,"Han, Yu-Rang (Story & Art)",2006 to 
+811,manhwa,Eohwadungdungnae Boreumi,NULL,Finished,"Fantasy,Romance,Supernatural",18545,6.93,"Lee, Yun-hee (Story & Art)",2010 to  2013
+812,manhwa,Rebirth Knight,NULL,Publishing,"Action,Drama,Romance",8734,6.93,"Yu, Jaebeom (Story & Art)","Jul  12, 2013 to "
+813,manhwa,The Sweetest Man,NULL,Finished,"Love,Supernatural",21774,6.93,Haejin (Story & Art),"May  12, 2015 to Mar  20, 2020"
+814,manhwa,She's My Type,NULL,Publishing,"Comedy,Drama,Romance",18820,6.93,Roseong (Story & Art),"Apr  1, 2018 to "
+815,manhwa,Save Me,16,Finished,"Drama,Suspense",12854,6.93,LICO (Art),"Jan  17, 2019 to Apr  4, 2019"
+816,manhwa,Anuki,51,Finished,"Action,Adventure",11502,6.93,"Lee, Ji Gun (Story), Son, Chang-eun (Story), Yamesi (Art)","Apr  14, 2001 to Feb  13, 2004"
+817,manhwa,Dungeon Reset,NULL,Publishing,"Action,Adventure,Fantasy",3220,6.93,"Ant Studio (Art), Daul (Story)","Mar  3, 2020 to "
+818,manhwa,I Get Stronger the More I Eat,NULL,Publishing,"Action,Adventure,Fantasy",4492,6.93,"Ttosok-eun Naengjuk (Story), Kitaeon (Art)","May  31, 2021 to "
+819,manhwa,Reborn as a Scholar,NULL,Publishing,Action,8577,6.93,"Soo, Yuhyeon (Story), Yumjjakjjak (Art)","Oct  9, 2016 to "
+820,manhwa,Girl in the Birdcage,50,Finished,Love,21271,6.92,Koer (Story & Art),"Jan  17, 2018 to Jan  23, 2019"
+821,manhwa,"God, Please Make Me a Demon!",67,Finished,"Comedy,Supernatural",16534,6.92,"Bulsa (Story), Yomgary (Art)","Apr  7, 2021 to Jun  30, 2022"
+822,manhwa,Disciple of the Holy Sword,NULL,Publishing,"Action,Adventure,Fantasy",6517,6.92,"Mackenro (Story), Bol x Bae (Art)","Jun  4, 2022 to "
+823,manhwa,Money Game,60,Finished,Suspense,28238,6.92,"Bae, Jin-Soo (Story & Art)","Nov  23, 2018 to Dec  20, 2019"
+824,manhwa,The Lord of Coins,NULL,Publishing,"Action,Adventure,Fantasy",4595,6.92,"Mokhyun (Story), Trouvere (Art)","Apr  30, 2021 to "
+825,manhwa,The Villainess Tames the Beast,NULL,Publishing,"Fantasy,Romance",8264,6.92,"Norae (Art), Seolyoung (Story)","Jun  24, 2022 to "
+826,manhwa,Horang's Nightmare,10,Finished,Horror,21498,6.92,Horang (Story & Art),"Aug  31, 2020 to Nov  2, 2020"
+827,manhwa,Sica Wolf,94,Finished,"Adventure,Fantasy,Romance",20740,6.92,"Siya (Story), Dongjeon (Art)","May  31, 2017 to Aug  8, 2019"
+828,manhwa,Reforming the Obsessive Male Lead,NULL,Publishing,"Fantasy,Romance",15146,6.92,"Purple Lemon (Story), Debin (Art)","Jul  25, 2022 to "
+829,manhwa,The Secret of the Partner Next to You,NULL,Publishing,Comedy,17824,6.92,Chaegun (Story & Art),"May  20, 2022 to "
+830,manhwa,Love Bullet,NULL,Finished,"Comedy,Romance",19220,6.92,"Hwang, Mi Ri (Story & Art)",2010 to 
+831,manhwa,"Oh, My Romantic Kumiho",NULL,Publishing,"Fantasy,Romance,Supernatural",18006,6.92,"Kim, Myeongmi (Story & Art)",2010 to 
+832,manhwa,Nabi: The Prototype,6,Finished,Drama,16056,6.92,"Kim, Yeon-Joo (Story & Art)",Jan-05
+833,manhwa,Last Fantasy,8,Finished,"Action,Adventure,Comedy,Fantasy",24809,6.92,"Creative Hon (Story), Kwon, Yong-Wan (Art)",2002 to  2004
+834,manhwa,Really?!,NULL,Finished,"Drama,Romance",13647,6.92,"Lee, Hyeon-Sook (Story & Art)",NULL
+835,manhwa,Memory Eaters,11,Finished,"Fantasy,Romance",15833,6.92,"Kang, Kyung-nam (Story & Art)",2006 to  2007
+836,manhwa,Bell Princess,NULL,Publishing,"Drama,Fantasy,Romance",20687,6.92,"Park, Eun Ah (Story & Art)",2007 to 
+837,manhwa,Strange and Beautiful,155,Finished,"Fantasy,Mystery,Romance,Supernatural",12723,6.92,Honey Bee (Story & Art),"Dec  20, 2015 to Feb  24, 2019"
+838,manhwa,"If You Give Me Flowers, I'll Give You Myself",67,Finished,Romance,23446,6.91,"Jo, Yujin (Story), Homil (Art)","Jan  4, 2020 to May  9, 2021"
+839,manhwa,Locker & Opener,92,Finished,Mystery,25566,6.91,"Maanchwee (Story), Bareunkkot (Art)","Dec  11, 2020 to Aug  6, 2022"
+840,manhwa,Let's Hide My Little Brother,NULL,Publishing,"Fantasy,Romance",14852,6.91,"Chen, Li (Art), Chae, Jihoo (Story)","Aug  16, 2021 to "
+841,manhwa,Straight to the Red Carpet,NULL,Publishing,Fantasy,16926,6.91,"Poddo (Story), Pomme (Art)","Dec  11, 2021 to "
+842,manhwa,Voice of Love,36,Finished,Love,23915,6.91,Pongpong (Story & Art),"Nov  29, 2017 to Jun  27, 2018"
+843,manhwa,The Dungeon Cleaning Life of a Once Genius Hunter,NULL,Publishing,"Action,Fantasy",8704,6.91,"Dalbeat (Story), Goilgoil (Art)","Jun  29, 2022 to "
+844,manhwa,Bibi,49,Finished,"Drama,Romance",12856,6.91,"Choi, Kyung-ah (Story & Art)",2003 to 
+845,manhwa,New Sexy Simpleton,45,Finished,"Comedy,Fantasy,Romance",15499,6.91,"Hwang, Mi Ri (Story & Art)",NULL
+846,manhwa,Girl in Heels,NULL,Finished,"Drama,Romance",10244,6.91,"Chon, Kye Young (Story & Art)",2007
+847,manhwa,Yoo Ah Dok-Jon,15,Finished,"Action,Comedy,Romance,Ecchi",7129,6.91,"Im, Ae-Joo (Story & Art)",2007
+848,manhwa,Honorable Baek Dong Soo,65,Finished,Action,10239,6.91,"Lee, Jae-Heon (Story), Hong, Ki-Woo (Art)",2010 to  2012
+849,manhwa,Beast 9,34,Finished,"Action,Comedy,Romance,Sci-Fi,Supernatural,Ecchi",7874,6.91,"Yoon, Jae Ho (Story), Park, Jin-Hwan (Art)",2010 to  2012
+850,manhwa,Pet Diary,44,Finished,"Comedy,Life",13928,6.91,"Kim, Hye-Jin (Art), Yohan (Story)","Jun  4, 2007 to Feb  14, 2008"
+851,manhwa,Going to You,48,Finished,Unknown,14718,6.9,"Han, Yu-Rang (Story & Art)",2008 to 
+852,manhwa,Nobles' Love Company,NULL,Finished,Unknown,21010,6.9,"Han, Yu-Rang (Story & Art)",NULL
+853,manhwa,New Mok Yeon-Ah Honeymoon Diary,NULL,Finished,"Comedy,Romance",23017,6.9,"Han, Yu-Rang (Story & Art)",2005 to 
+854,manhwa,Metronome,NULL,Publishing,"Drama,Fantasy,Mystery,Romance,Supernatural",10344,6.9,"Lee, Won-Jin (Story & Art)","Jun  16, 2010 to "
+855,manhwa,The Lady Needs a Break,NULL,Publishing,"Comedy,Fantasy,Romance",9726,6.9,"Yuin (Story), Choi, MJ (Art)","Mar  10, 2021 to "
+856,manhwa,Devilish Romance,95,Finished,"Romance,Supernatural",16983,6.9,"Lee, Kong-joo (Story), Hayan Doksuri (Art)","Jul  14, 2020 to Aug  21, 2022"
+857,manhwa,Protect the Knight,60,Finished,Supernatural,25957,6.9,Dalbong (Story & Art),"Apr  16, 2021 to Oct  23, 2022"
+858,manhwa,It's Not Your Baby!,NULL,Publishing,"Fantasy,Romance",10679,6.9,"Team Twinkle (Art), Lee, Jihye (Story)","May  20, 2022 to "
+859,manhwa,How to Live as a Villain,NULL,Publishing,"Action,Fantasy",6315,6.9,"Rundgreen (Story), Lee, Masik (Art)","Nov  9, 2021 to "
+860,manhwa,The Meaning of You,82,Finished,"Fantasy,Romance",24450,6.9,"Kim, Tilda (Story), Lee, Sorok (Art)","Dec  18, 2020 to Aug  5, 2022"
+861,manhwa,House Mayton's Youngest,NULL,Publishing,"Action,Adventure,Fantasy",6802,6.9,"Bichu (Story), Shin, Gunwoo (Art)","Oct  10, 2022 to "
+862,manhwa,Blue Glass,NULL,Publishing,"Drama,Romance",16685,6.9,"Oh, Ji-hye (Story & Art)","Dec  1, 2014 to "
+863,manhwa,Daughter of the Emperor,245,Finished,"Comedy,Drama,Fantasy",2929,6.9,"Yunsul (Story), Rino (Art)","Aug  5, 2015 to Jun  8, 2022"
+864,manhwa,Mong Hwan Baegseo,NULL,Finished,"Adventure,Fantasy,Supernatural",13725,6.9,"Im, Ae-Joo (Story), Im, Jin-Joo (Art)",2003 to  2011
+865,manhwa,Milkyway Hitchhiking,51,Finished,"Adventure,Comedy,Drama,Fantasy,Life,Supernatural",17438,6.9,Sirial (Story & Art),"Feb  21, 2011 to Nov  25, 2012"
+866,manhwa,One-of-a-Kind Romance,160,Finished,"Comedy,Drama,Romance",20595,6.89,Dubu (Story & Art),"Apr  9, 2018 to Oct  3, 2021"
+867,manhwa,The Thousand-Year Fox's Operation-Human,NULL,Finished,"Fantasy,Romance,Supernatural",21854,6.89,"Han, Yu-Rang (Story & Art)",NULL
+868,manhwa,She's Gon,25,Finished,"Comedy,Fantasy",14328,6.89,"Son, Hee-Joon (Story)",2012 to 
+869,manhwa,So I Married an Anti-Fan,22,Finished,"Comedy,Romance",13178,6.89,"Wann (Art), Kim, Eunjeong (Story)",2011
+870,manhwa,Everyday Lily,54,Finished,"Comedy,Love",23814,6.89,Gom Mali (Story & Art),"Jun  26, 2016 to May  14, 2017"
+871,manhwa,Men of the Harem,NULL,Publishing,Fantasy,8447,6.89,"Alphatart (Story), Yeongbin (Art)","Nov  24, 2020 to "
+872,manhwa,Lady Chef Royale,NULL,Publishing,"Fantasy,Gourmet",10329,6.89,"Ant Studio (Art), Lysha (Story), Paya (Art)","Aug  1, 2020 to "
+873,manhwa,Forest of Humans,33,Finished,Suspense,28691,6.89,"Hwang, Junho (Story & Art)","Jun  3, 2012 to Jan  20, 2013"
+874,manhwa,"No Way, Vampires Don't Exist!",80,Finished,"Love,Comedy,Supernatural",23817,6.89,"Kimoong (Story), Racking (Art)","Dec  16, 2019 to Mar  22, 2021"
+875,manhwa,The Snake and the Flower,85,Finished,Drama,22500,6.89,"So, Na-eum (Story & Art)","Jan  5, 2021 to Jul  13, 2022"
+876,manhwa,Dead Days,60,Finished,"Horror,Suspense",20398,6.89,DEY (Story & Art),"Jul  5, 2014 to Oct  24, 2015"
+877,manhwa,Transcension Academy,NULL,Publishing,"Action,Fantasy",9347,6.89,"Dupachitapa (Story), Kkyujeanne (Art)","Jul  7, 2022 to "
+878,manhwa,I.N.V.U.,NULL,On Hiatus,"Drama,Romance",9673,6.89,"Kim, Kang-Won (Story & Art)",2000 to  2008
+879,manhwa,Don't Cheat on Me!,NULL,Finished,Unknown,22447,6.88,"Han, Yu-Rang (Story & Art)",NULL
+880,manhwa,Be Born Again,NULL,Publishing,"Action,Drama,Supernatural",19676,6.88,"Lee, Chang Jun (Story & Art)",2012 to 
+881,manhwa,King of Eden,51,Finished,"Horror,Mystery,Suspense",11008,6.88,"Nagasaki, Takashi (Story), Lee, Sang Cheol (Art)","Feb  28, 2014 to Apr  30, 2018"
+882,manhwa,The Villain's Savior,87,Finished,"Drama,Fantasy,Romance",4426,6.88,"Myoung Rang (Story), Zetson (Art)","Apr  6, 2019 to May  1, 2021"
+883,manhwa,ChunRangYulJun,NULL,Finished,"Action,Adventure,Fantasy,Mystery,Romance",17792,6.88,"Park, Sung-Woo (Story & Art)",1997 to 
+884,manhwa,Ice Kiss,NULL,Finished,"Comedy,Romance,Supernatural",20206,6.88,"Choi, Kyung-ah (Story & Art)",2006 to 
+885,manhwa,Platina,NULL,Finished,"Adventure,Fantasy",20361,6.88,"Kim, Yeon-Joo (Story & Art)",2003 to 
+886,manhwa,Secret Playlist,107,Finished,Romance,13489,6.88,IF (Story & Art),"Sep  14, 2020 to Oct  10, 2022"
+887,manhwa,Rewriting the Villainess,62,Finished,Supernatural,11345,6.88,Honghye (Story & Art),"Dec  26, 2021 to Feb  26, 2023"
+888,manhwa,Threads of Love,79,Finished,"Romance,Supernatural",19391,6.88,"Han, Kijoo (Story), Il (Art)","May  24, 2021 to Nov  8, 2022"
+889,manhwa,Soul Cartel,223,Finished,"Action,Fantasy",22442,6.88,"Jiya (Art), Haram (Story)","Jan  12, 2012 to Apr  13, 2016"
+890,manhwa,Precious Daughter of the Greatest Martial Arts Villain,NULL,Publishing,Fantasy,10560,6.88,"Solddam (Story), Ssalguksu (Art)","Mar  31, 2021 to "
+891,manhwa,Dear Nemesis,NULL,Publishing,"Drama,Fantasy,Romance",16826,6.88,"Minato (Story), Velma (Art)","Feb  23, 2022 to "
+892,manhwa,The Ideal Relationship,45,Finished,Love,23301,6.88,"Ant Studio (Art), Ken (Story)","Jun  30, 2019 to Dec  30, 2019"
+893,manhwa,The Great Wizard Transcendent,NULL,Publishing,"Action,Fantasy",7115,6.88,"Hanbit Nuri (Story), Muljanggu (Art)","Oct  5, 2022 to "
+894,manhwa,A World Without You,NULL,Publishing,"Drama,Fantasy,Romance",18065,6.88,"Bam-manyeo (Art), Na, Yoohye (Story)","Dec  19, 2022 to "
+895,manhwa,The Hellbound,57,Finished,"Horror,Supernatural,Suspense",9092,6.87,"Yeon, Sang-ho (Story), Choi, Gyu-seok (Art)","Aug  23, 2019 to Aug  16, 2020"
+896,manhwa,The Boy of Death,NULL,Publishing,"Action,Supernatural",12179,6.87,Ryu (Story & Art),"Jul  8, 2019 to "
+897,manhwa,Gourmet Gaming,NULL,Publishing,"Action,Fantasy,Gourmet",8540,6.87,"Park, Mingyu (Story), Coge (Art)","May  3, 2020 to "
